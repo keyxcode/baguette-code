@@ -1,5 +1,4 @@
 ---
-title: Bonjour le monde
 categories: [français]
 tags: [test] # tag names should always be lowercase
 ---
