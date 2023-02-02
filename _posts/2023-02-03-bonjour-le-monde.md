@@ -1,6 +1,8 @@
 ---
 categories: [français]
 tags: [test] # tag names should always be lowercase
+future: true
+date: 2018-05-03 12:34:27 +0100
 ---
 
 # Coucou
