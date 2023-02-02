@@ -1,6 +1,7 @@
 ---
 categories: [français]
 tags: [education] # tag names should always be lowercase
+comments: true
 ---
 
 # Coucou
