@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Bonjour !
 
@@ -11,4 +11,4 @@ Ma force, c'est apprendre les choses qui me permettent de pratiquer tous les tem
 
 Au contraire, prenons le basket comme exemple. J'aime bien le basket, mais ce n'est pas si facile pour pratiquer quand je veux. Comment pratiquer le basket quand je cuisine ? Comment pratiquer le basket cinq minutes avant de dormir ? D'ailleurs, il faut aller à une salle de sport pour faire. Et en fait, il faut aussi avoir au moins une autre personne pour pratiquer efficacement la technique. Vous voyez ? À cause de ça, je trouve que c'est très difficile pour moi de devenir bon au basket, ou au sport d'équipé en général.
 
-Alors, je suppose la morale de l'histoire, c'est ma force est d'apprendre les choses que je veux facilement avoir beaucoup de répétitions pendant la journée. Je ne suis pas l'homme le plus intelligent, mais avec ce genre de sujet, il ne faut pas être très intelligent ! Il faut seulement être déterminé. 
+Alors, je suppose la morale de l'histoire, c'est ma force est d'apprendre les choses que je veux facilement avoir beaucoup de répétitions pendant la journée. Je ne suis pas l'homme le plus intelligent, mais avec ce genre de sujet, il ne faut pas être très intelligent ! Il faut seulement être déterminé.
