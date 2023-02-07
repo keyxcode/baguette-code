@@ -21,7 +21,7 @@ timezone: Asia/Ho_Chi_Minh
 
 title: Baguette Code                          # the main title
 
-tagline: I go here to practice French!   # it will display as the sub-title
+tagline: Me trying to French!   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.

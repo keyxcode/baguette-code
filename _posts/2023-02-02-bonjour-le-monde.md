@@ -1,10 +1,6 @@
 ---
-categories:
-  - français
-tags:
-  - education
-comments: true
-published: true
+categories: [education, self]
+tags: [education, self, français, language]     # TAG names should always be lowercase
 ---
 
 ## Coucou

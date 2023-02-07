@@ -1,5 +1,6 @@
 ---
-published: true
+categories: [education, technology]
+tags: [education, technology, français, chatgpt, ai]     # TAG names should always be lowercase
 ---
 ## Le ChatGPT va transformer le monde !
 
