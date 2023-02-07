@@ -4,6 +4,9 @@ published: true
 ## Le ChatGPT va changer le monde !
 
 Oui. Récemment, si tu as suivi les informations, ou si tu as lu sur Internet, tu entendrais sûrement parler du ChatGPT. C'est une modèle  d'Intelligence Artificielle (IA) qui peut répondre naturellement aux questions, comme un humain. Je trouve ça vraiment impressionnant et je crois qu'il va sans doute changer l'avenir du travail et l'avenir des humains en général.
+
 Certains métiers vont beaucoup changer, par exemple l'éducation. Les professeurs peuvent l'utiliser pour préparer des plans de leçon, et aussi pour noter des examens. En fait, j'imagine que les étudiants peuvent, eux aussi, le profiter pour plein de choses : pratiquer une langue étrangère avec l'IA, le demander à noter ou corriger leurs essais pratiques pour s'améliorer, etc. Et en général, tous les métiers où on doit écrire et mémoriser vont être influencé par l'IA, comme la publicité, l'industrie médicale, l'avocat, etc.
+
 Qui sont les métiers les plus difficiles d'être remplacé par l'IA ? À mon avis, ce sont les métiers qui sont liés aux actions physiques, comme le sport et la performance musicale. Pour apprendre ce genre de chose, il faut qu'on ait un professeur à côte de nous. Les gens ont essayé de faire des leçons sportives ou musicales en ligne pendant COVID, mais je ne trouve jamais que c'est assez efficace. D'ailleurs, quand on regarde un match sportif ou une performance musicale, on veut voir nos personnes préférées. Et ça, ce n'est pas quelque chose que l'IA peut faire, au moins en ce moment.
+
 Bien sûr, chaque fois quand il y a un changement majeur, tout le monde a naturellement peur. Mais, à mon avis, il faut qu'on apprenne à vivre avec ça, parce que la technologie va toujours avancer. Le ChatGPT est juste la première étape dans un nouveau page de l'humanité.
