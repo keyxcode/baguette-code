@@ -1,6 +1,12 @@
 ---
-categories: [education, self]
-tags: [education, self, français, language]     # TAG names should always be lowercase
+categories:
+  - self
+tags:
+  - education
+  - self
+  - français
+  - language
+published: true
 ---
 ## Bonjour !
 
