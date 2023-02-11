@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Ou plutôt, un conseil à mon jeune moi 
 
@@ -10,6 +10,6 @@ En théorie, c'est vrai; en réalité, c'est nul. Le scénario le plus probable 
 
 Ensuite, il y a les questions de compétences. Avant, je pensais tout simplement que si j'aime la musique, je faire de la musique. Mais en réalité, l'amour pour la musique n'est jamais suffisant. Afin de se brouiller dans cette industrie, vous devez aimer d'autres choses, surtout le service clients, et le réseautage. Autrement dit, vous devez être quelqu'un de très sociable. Si vous êtes comme ça, génial. Mais je sais ce n'est pas le cas pour beaucoup de musiciens.
 
-Finalement, pensons à la demande et l'offre. Il y a déjà plein plein plein de la musique dans le monde. C'est la triste vérité. Bien sur,  
+Finalement, pensons à la demande et l'offre. Il y a déjà plein plein plein de la musique dans le monde. À cause de ça, vous verrez que parfois, vous devez travailler à votre 11 tous le temps, pour gagner seulement un peu de récompenses, alors que dans d'autres industries, il faut seulement être à votre 8 ou 9 pour succeder. 
 
-Il faut dire que si je 
+Il faut dire que si je
