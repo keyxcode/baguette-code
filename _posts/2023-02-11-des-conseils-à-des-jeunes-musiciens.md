@@ -6,6 +6,7 @@ tags:
   - education
   - music
   - career
+  - français
 ---
 # Ou plutôt, des conseils à mon jeune moi 
 
