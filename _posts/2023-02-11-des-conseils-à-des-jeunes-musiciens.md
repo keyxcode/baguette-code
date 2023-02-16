@@ -1,5 +1,11 @@
 ---
 published: true
+categories:
+  - education
+tags:
+  - education
+  - music
+  - career
 ---
 # Ou plutôt, des conseils à mon jeune moi 
 
