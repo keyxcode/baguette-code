@@ -8,7 +8,7 @@ tags:
   - career
   - français
 ---
-# Ou plutôt, des conseils à mon jeune moi 
+# Ou plutôt, des conseils à un jeune moi 
 
 Ce n'est pas un secret, je suis en train d'essayer de changer ma voie professionnelle. Je suis musicien depuis des années maintenant et je pense que je suis prêt pour un changement. Je n'écris pas pour convaincre quelqu'un de ne pas suivre son rêve ; je n'écris que comme un message d'un frère aîné que j'aimerais avoir quand j'étais plus jeune. 
 
