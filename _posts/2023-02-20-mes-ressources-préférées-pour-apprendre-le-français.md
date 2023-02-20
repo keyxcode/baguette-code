@@ -52,8 +52,9 @@ Comme je l'ai dit dans un post précédent, je vais vous presenter mes ressource
 - **Dictée d'Archibald - TV5Monde**
 	- Difficile, mais faisable. Il vous aide d'épeler des mots correctement.
     - À ce moment, je fais cette dictée au niveau B1, et j'essaie d'en faire un chaque jour.
-- **Écriture Quotidienne**
-	- À ce niveau, vous pouvez produire votre propre informations, donc c'est
+- **Un certain genre d'écriture quotidienne**
+	- Autour du niveau B1, vous avez déjà la connaissance suffisante pour produire vos propres matériaux comme un journal ou un blog. Vous pouvez aussi utilisez ce site: https://www.reddit.com/r/WriteStreak/
 
-italki
-RFI
+Et voila, ce sont tous les ressources que j'utilise maintenant pour apprendre le français. C'est indespensable que vous essayez de créér une immersion imaginaire. Par exemple, vous pouvez essayer écouter un podcast quand vous préparez votre petit-déjeuner, quand vous vous déplacez ou avant de dormir. 
+
+Quand je suis au niveau B2, j'essayerai aussi iTalki et RFI Savoirs parce que j'en entendu déjà parler beaucoup. À la prochain, bonne chance !  
