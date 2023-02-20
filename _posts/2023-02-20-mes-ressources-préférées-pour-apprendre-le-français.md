@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-## Aussi bref que possible !
+## Il y a trop d'options !
 
 Comme je l'ai dit dans un post précédent, je vais vous presenter mes ressources préférées pour apprendre le français. J'étudie la langue depuis environ quatre mois et demi maintenant, et mon niveau est autour de bas B1. Vous pouvez utliser beaucoup d'entre eux pour apprendre d'autres langues aussi. Je vais essayer de les décrire aussi vite que possible, en deux ou trois phrases (sauf Busuu parce que je l'aime trop...)  
 
