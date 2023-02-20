@@ -17,7 +17,8 @@ Comme je l'ai dit dans un post précédent, je vais vous presenter mes ressource
 - **Busuu**
 	- Un de mes applications préférées. J'ai commencé à l'utiliser après je suis devenu un peu à l'aise avec des phrases basiques. 
     - Je l'utilise comme une ancre pour mon niveau de langue parce qu'il divise ses leçons en quatre niveaux très clairs: A1, A2, B1 et B2.
-    - Non, vous n'allez pas maîtriser ce niveau après vous le finissez dans Busuu, mais c'est un excellent point de commencer. Après vous finissez chaque niveau de Busuu, je vous recommande de augmenter votre connaissance avec des autres ressources et de ne pas continuer au niveau prochain jusqu'à vous réussissez un examen fictif de DELF au niveau actuel.  
+    - Non, vous n'allez pas maîtriser ce niveau après vous le finissez dans Busuu, mais c'est un excellent point de commencer. Après vous finissez chaque niveau de Busuu, je vous recommande de augmenter votre connaissance avec des autres ressources et de ne pas continuer au niveau prochain jusqu'à vous réussissez un exemple de papier DELF au niveau actuel.  
+    - Avec cette app, vous pouvez aussi être corrigé par des natifs et aider des autres. 
 - **DELF Sample Papers**
 	- Comme je l'ai dit, je les utilise pour savoir si je suis devenu assez bon à un certain niveau, et si je peux continuer au niveau prochain dans Busuu.
 - **Coffee Break French**
