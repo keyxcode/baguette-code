@@ -46,8 +46,9 @@ Comme je l'ai dit dans un post précédent, je vais vous presenter mes ressource
     - À ce moment, j'en comprends environ 60-70%.
 - **Je Parle Baguette podcast**
 	- Celui-ci est un peu bizarre, parce qu'il ne parle pas du tout vite, mais j'ai souvent du mal à le comprendre quand même. Je crois que c'est parce qu'il vient de Marseille et il a un accent du sud, donc c'est pratique pour m'en habituer.
-- **TV5Monde Apprendre**
-	- 
+- **Apprendre le français avec TV5Monde**
+	- Celui-ci est très très très difficile parce que leur contenu vient des émissions pour les natifs. Donc, même si vous choississez le niveau A1, c'est toujours difficile. La difference, c'est que aux niveaux plus faciles, les questions sont plus faciles, même si le contenu rest difficile.
+    - Peut-être que vous pouvez l'essayer au environ niveau B2.
 - **TV5Monde Dictée**
 	- Génial
 - **Écriture Quotidienne**
