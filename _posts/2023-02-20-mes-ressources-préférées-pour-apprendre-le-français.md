@@ -49,8 +49,9 @@ Comme je l'ai dit dans un post précédent, je vais vous presenter mes ressource
 - **Apprendre le français avec TV5Monde**
 	- Celui-ci est très très très difficile parce que leur contenu vient des émissions pour les natifs. Donc, même si vous choississez le niveau A1, c'est toujours difficile. La difference, c'est que aux niveaux plus faciles, les questions sont plus faciles, même si le contenu rest difficile.
     - Peut-être que vous pouvez l'essayer au environ niveau B2.
-- **TV5Monde Dictée**
-	- Génial
+- **Dictée d'Archibald - TV5Monde**
+	- Difficile, mais faisable. Il vous aide d'épeler des mots correctement.
+    - À ce moment, je fais cette dictée au niveau B1, et j'essaie d'en faire un chaque jour.
 - **Écriture Quotidienne**
 	- À ce niveau, vous pouvez produire votre propre informations, donc c'est
 
