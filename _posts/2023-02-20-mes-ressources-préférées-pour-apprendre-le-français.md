@@ -20,7 +20,7 @@ Comme je l'ai dit dans un post précédent, je vais vous presenter mes ressource
     - Avec cette app, vous pouvez aussi être corrigé par des natifs et, vous aussi, aider des autres. 
 - **DELF Sample Papers**
 	- Comme je l'ai dit, je les utilises pour savoir si je suis devenu assez bon à un certain niveau, et si je peux continuer au niveau prochain dans Busuu.
-    - J'utilise ce site: http://www.delfdalf.fr/index-en.html mais il y a plein d'autres sur Internet.
+    - J'utilise ce site: http://www.delfdalf.fr/index-en.html mais il y a sûrement plein d'autres sur Internet.
 - **Coffee Break French**
 	- Une des meilleures ressources pour des anglophones de commencer à écouter le français.
     - Le format, c'est qu'il y a un professeur qui enseign des phrases basiques pour un étudiant qui commence au niveau zéro. 
@@ -29,15 +29,16 @@ Comme je l'ai dit dans un post précédent, je vais vous presenter mes ressource
 - **Google Translate**
     - Quand vous ne comprenez pas certain enregistrement, vous pouvez le jouer sur votre ordinateur et utilisez Google Translate sur votre portable pour le traduire, ou vice versa. Appuiez le bouton du micro et laissez l'un écouter l'autre.   
 - **Anki**
-	- C'est une application de cartes mémoires, ou "flashcards". Commencez l'utiliser quand vous êtes entre au niveau A2 et B1, parce que à ce moment, il y aura beaucoup plus de nouveaux mots que vous allez trouver dans vos matériels de lecture et d'écoute.
+	- C'est une application de cartes mémoires, ou "flashcards". Commencez l'utiliser quand vous êtes entre au niveau A2 et B1, parce que à ce moment, il y aura beaucoup plus de nouveaux mots que vous allez rencontrer dans vos matériels de lecture et d'écoute.
     - J'utilise toujours le genre de carte "Basic and reversed" comme il me permettre de réviser la traduction de l'Anglais au Français aussi bien que du Français à l'Anglais. 
 - **Reverso Context**
 	- Un bon dictionnaire gratuit avec plein d'exemples de phrases. 
-- **Duolingo podcasts**
-	- Maintenant, vous avez peut-être la basse suffisante pour comprendre quelque chose de très simple common le Duolingo podcast.
-    - La qualité de production est epoustouflant. 
-- **innerFrench**
-	- À le même niveau que Duolingo
+- **Duolingo podcast**
+	- Autour de niveau A2 et B1, vous pouvez aussi profiter des podcasts, et le podcast de Duolingo est un choix excellent pour commencer.
+    - Il mélange l'Anglais et le Français, donc c'est un peu plus facile de comprendre. Surtout, sa qualité de production est époustouflante. 
+- **innerFrench Podcast**
+	- Un peu similaire au podcast de Duolingo, mais il n'utilise presque pas Anglais. Cependant, sa prononciation est super claire.
+    - 
 - **Little talk in slow french**
 	- Environ le même niveau
 - **Le fluidite podcast**
