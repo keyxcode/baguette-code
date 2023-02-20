@@ -36,15 +36,16 @@ Comme je l'ai dit dans un post précédent, je vais vous presenter mes ressource
 - **Duolingo podcast**
 	- Autour de niveau A2 et B1, vous pouvez aussi profiter des podcasts, et le podcast de Duolingo est un choix excellent pour commencer.
     - Il mélange l'Anglais et le Français, donc c'est un peu plus facile de comprendre. Surtout, sa qualité de production est époustouflante. 
-- **innerFrench Podcast**
-	- Un peu similaire au podcast de Duolingo, mais il n'utilise presque pas Anglais. Cependant, sa prononciation est super claire.
-    - 
-- **Little talk in slow french**
-	- Environ le même niveau
-- **Le fluidite podcast**
-	- Très vite et en ce moment, je comprends
-- **Je parle baguette**
-	- Très lent mais avec un accent Marseille (je crois ?) donc il est 
+- **innerFrench podcast**
+	- Un peu similaire au podcast de Duolingo, mais il n'utilise presque pas l'Anglais. Cependant, il parle très lentement et sa prononciation est super claire.
+    - J'utilise ce podcast aussi pour "shadowing". C'est-à-dire que après la première fois que j'écoute un de ses podcasts, je vais écouter encore une fois où je parle avec lui, grâce à la transcription qu'il offre.
+- **Little Talk in Slow French podcast**
+	- Environ le même niveau de innerFrench. J'adore ses podcasts sur les arts et la culture française.
+- **Le podcast Fluidité**
+	- Ce podcast est plus difficile que les précédents, parce que l'hôte parle à vitesse normale.
+    - À ce moment, j'en comprends environ 60-70%.
+- **Je Parle Baguette podcast**
+	- Celui-ci est un peu bizarre, parce qu'il ne parle pas du tout vite, mais j'ai souvent du mal à le comprendre quand même. Je crois que c'est parce qu'il vient de Marseille et il a un accent du sud, donc c'est pratique pour m'en habituer.
 - **TV5Monde Apprendre**
 	- 
 - **TV5Monde Dictée**
