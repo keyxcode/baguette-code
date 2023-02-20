@@ -53,6 +53,3 @@ Comme je l'ai dit dans un post précédent, je vais vous presenter mes resources
 
 italki
 RFI
-
-Lingodeer
-Le La
