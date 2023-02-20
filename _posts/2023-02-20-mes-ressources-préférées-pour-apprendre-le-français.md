@@ -55,4 +55,4 @@ Comme je l'ai dit dans mon post précédent, voici mes ressources préférées p
 - **Un certain genre d'écriture quotidienne**
 	- Autour du niveau B1, vous avez déjà la connaissance suffisante pour produire vos propres matériaux comme un journal ou un blog. Vous pouvez aussi utilisez ce site: https://www.reddit.com/r/WriteStreak/
 
-Et voilà, ce sont tous les ressources que j'utilise actuellement pour apprendre le français. Créer une immersion imaginaire est la clé. Par exemple, vous pouvez écouter des podcasts quand vous préparez votre petit-déjeuner, quand vous vous déplacez ou avant de dormir. Quand je serai au niveau B2, je pense que j'essayerai aussi iTalki et RFI Savoirs parce que j'en ai entendu déjà parler beaucoup. Bbonne chance !  
+Et voilà, ce sont tous les ressources que j'utilise actuellement pour apprendre le français. Créer une immersion imaginaire est la clé. Par exemple, vous pouvez écouter des podcasts quand vous préparez votre petit-déjeuner, quand vous vous déplacez ou avant de dormir. Quand je serai au niveau B2, je pense que j'essayerai aussi iTalki et RFI Savoirs parce que j'en ai entendu déjà parler beaucoup. Bonne chance !  
