@@ -3,7 +3,7 @@ published: true
 ---
 ## Il y a trop d'options !
 
-Comme je l'ai dit dans un post précédent, je vais vous présenter mes ressources préférées pour apprendre le français. J'étudie la langue depuis environ quatre mois et demi maintenant et mon niveau est autour de bas B1. Vous pouvez utiliser beaucoup d'entre eux pour apprendre d'autres langues aussi. Je vais essayer de les décrire aussi vite que possible, en deux ou trois phrases (sauf certains que j'aime trop...)
+Comme je l'ai dit dans mon post précédent, je vais vous présenter mes ressources préférées pour apprendre le français. J'étudie la langue depuis environ quatre mois et demi maintenant et mon niveau est autour de bas B1. Vous pouvez utiliser beaucoup d'entre eux pour apprendre d'autres langues aussi. Je vais essayer de les décrire aussi vite que possible, en deux ou trois phrases (sauf certains que j'aime trop...)
 
 - **Duolingo**
     - Simple et répétitive, elle est parfaite pour des revues quotidiennes. 
