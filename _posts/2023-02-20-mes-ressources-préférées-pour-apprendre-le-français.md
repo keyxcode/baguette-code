@@ -28,7 +28,7 @@ Comme je l'ai dit plus tôt, je voudrais partager avec vous mes ressources préf
 - **Google Translate**
     - Quand vous ne comprenez pas certain enregistrement, vous pouvez le jouer sur votre ordinateur et utilisez Google Translate sur votre portable pour le traduire, ou vice versa. Appuiez le bouton du micro et laissez l'un écouter l'autre.   
 - **Anki**
-	- C'est une application de cartes mémoires, ou "flashcards". Commencez à l'utiliser quand vous êtes entre au niveau A2 et B1, parce qu'à ce moment, il y aura beaucoup plus de nouveaux mots que vous allez rencontrer dans vos matériels de lecture et d'écoute.
+	- C'est une application de cartes mémoires, ou "flashcards". Commencez à l'utiliser quand vous êtes entre les niveaux A2 et B1, parce qu'à ce moment, vous rencontrerez beaucoup plus de nouveaux mots  dans vos matériels de lecture et d'écoute.
     - J'utilise toujours le genre de carte "Basic and reversed" comme il me permettre de réviser la traduction de l'anglais au français aussi bien que du français à l'anglais. 
 - **Duolingo podcast**
 	- Autour de niveau A2 et B1, vous pouvez profiter des podcasts et le podcast de Duolingo est un choix excellent pour commencer.
