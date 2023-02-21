@@ -6,21 +6,20 @@ published: true
 Comme je l'ai dit plus tôt, je voudrais partager avec vous mes ressources préférées pour apprendre le français. J'étudie cette langue depuis environ 5 mois maintenant et mon niveau est autour de bas B1. Vous pouvez également utiliser beaucoup d'entre ces ressources pour apprendre d'autres langues. Je vais essayer de les décrire aussi brièvement que possible, en deux ou trois phrases (sauf certaines que j'aime trop...)
 
 - **Duolingo**
-    - Simple et répétitive, elle est parfaite pour des revues quotidiennes. 
-    - Utilisez l'application sur le site web d'ordinateur quand vous pouvez. C'est un peu plus difficile parce que vous devez taper les phrases.
+    - Simple et répétitf, parfait pour des revues quotidiennes. 
+    - Si possible, utilisez l'application sur le site web de votre ordinateur. C'est un peu plus difficile parce qu'il faut taper les mots exacts.
 - **Memrise** 
-	- Ce que j'ai trouvé quand je cherchais quelque chose pour accompagner Duolingo. 
-    - Il offre des clips avec des natifs qui parlent des phrases courtes à vitesse normale, donc c'est très pratique pour vous habituer à ecouter des personnes réelles, avec des bruits et tout ça. 
+	- Une autre ressource pour apprendre de nouveaux mots. Parfait pour accompagner Duolingo. 
+    - Elle offre de courts clips avec des natifs qui parlent à vitesse normale, donc c'est très pratique pour vous habituer à écouter des personnes réelles, avec des bruits de la rue et tout ça. 
 - **Drops**
-	- Une autre application pour apprendre des nouveaux mots. Sans abonnement, vous ne pouvez l'utiliser que 5 minutes toutes les 10 heures.
-	- Je l'utilise souvent avant de dormir et je ne me soucie pas trop de tout mémoriser avec cette app. 
+	- Encore une autre app pour apprendre de nouveaux mots. Sans abonnement, vous ne pouvez l'utiliser que 5 minutes toutes les 10 heures.
 - **Busuu**
     - Je l'utilise comme une ancre pour mon niveau de langue parce qu'il divise ses leçons en quatre niveaux très clairs: A1, A2, B1 et B2.
-    - Non, vous n'allez pas maîtriser ce niveau après vous le finissez dans Busuu, mais c'est un excellent point de commencer. Après vous finissez chaque niveau de Busuu, je vous recommande d'augmenter votre connaissance avec des autres ressources et de ne pas continuer au niveau prochain jusqu'à vous réussissez quelques exemples d'examen DELF au votre niveau actuel.  
-    - Avec cette app, vous pouvez aussi être corrigé par des natifs et, vous aussi, aider des autres. 
+    - Non, vous n'allez pas maîtriser ce niveau après avoir le finissé dans Busuu, mais c'est un excellent point de commencer. Après vous finissez chaque niveau de Busuu, je vous recommande d'augmenter votre connaissance avec des autres ressources et de ne pas continuer au niveau prochain jusqu'à vous réussissez quelques exemples d'examen DELF au votre niveau actuel.
+    - Avec cette app, vous pouvez aussi être corrigé par des natifs et, vous aussi, aider des autres à apprendre vos langue. 
 - **DELF Sample Papers**
 	- Comme je l'ai dit, je les utilises pour savoir si je suis devenu assez bon à un certain niveau, et si je peux continuer au niveau prochain dans Busuu.
-    - J'utilise ce site: http://www.delfdalf.fr/index-en.html mais il y a sûrement plein d'autres sur Internet.
+    - J'utilise ce site: [http://www.delfdalf.fr/index-en.html](http://www.delfdalf.fr/index-en.html) mais il y a sûrement plein d'autres sur Internet.
 - **Coffee Break French**
 	- Une des meilleures ressources pour des anglophones de commencer à écouter le français.
     - Le format, c'est qu'il y a un professeur qui enseign des phrases basiques pour un étudiant qui commence au niveau zéro. 
