@@ -31,8 +31,6 @@ Comme je l'ai dit plus tôt, je voudrais partager avec vous mes ressources préf
 - **Anki**
 	- C'est une application de cartes mémoires, ou "flashcards". Commencez l'utiliser quand vous êtes entre au niveau A2 et B1, parce que à ce moment, il y aura beaucoup plus de nouveaux mots que vous allez rencontrer dans vos matériels de lecture et d'écoute.
     - J'utilise toujours le genre de carte "Basic and reversed" comme il me permettre de réviser la traduction de l'anglais au français aussi bien que du français à l'anglais. 
-- **Reverso Context**
-	- Un bon dictionnaire gratuit avec plein d'exemples de phrases. 
 - **Duolingo podcast**
 	- Autour de niveau A2 et B1, vous pouvez profiter des podcasts et le podcast de Duolingo est un choix excellent pour commencer.
     - Il mélange l'anglais et le français, donc c'est un peu plus facile de comprendre. Surtout, sa qualité de production est vraiment top. 
