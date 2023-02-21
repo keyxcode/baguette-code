@@ -14,9 +14,9 @@ Comme je l'ai dit plus tôt, je voudrais partager avec vous mes ressources préf
 - **Drops**
 	- Encore une autre app pour apprendre de nouveaux mots. Sans abonnement, vous ne pouvez l'utiliser que 5 minutes toutes les 10 heures.
 - **Busuu**
-    - Je l'utilise comme une ancre pour mon niveau de langue parce qu'il divise ses leçons en quatre niveaux très clairs: A1, A2, B1 et B2.
-    - Non, vous n'allez pas maîtriser ce niveau après avoir le finissé dans Busuu, mais c'est un excellent point de commencer. Après vous finissez chaque niveau de Busuu, je vous recommande d'augmenter votre connaissance avec des autres ressources et de ne pas continuer au niveau prochain jusqu'à vous réussissez quelques exemples d'examen DELF au votre niveau actuel.
-    - Avec cette app, vous pouvez aussi être corrigé par des natifs et, vous aussi, aider des autres à apprendre vos langue. 
+    - Je l'utilise comme une ancre pour mon niveau de langue parce qu'il divise ses leçons en quatre niveaux très clairs : A1, A2, B1 et B2.
+    - Non, vous n'allez pas maîtriser ce niveau après l'avoir fini dans Busuu, mais c'est un excellent point de commencer. Après que vous finissez chaque niveau de Busuu, je vous recommande d'augmenter votre connaissance avec des autres ressources et de ne pas continuer au niveau prochain tant que vous ne réussissez pas quelques exemples d'examen DELF.
+    - Avec cette app, vous pouvez aussi être corrigé par des natifs et, par contre, aider des autres à apprendre votre langue. 
 - **DELF Sample Papers**
 	- Comme je l'ai dit, je les utilises pour savoir si je suis devenu assez bon à un certain niveau, et si je peux continuer au niveau prochain dans Busuu.
     - J'utilise ce site: [http://www.delfdalf.fr/index-en.html](http://www.delfdalf.fr/index-en.html) mais il y a sûrement plein d'autres sur Internet.
