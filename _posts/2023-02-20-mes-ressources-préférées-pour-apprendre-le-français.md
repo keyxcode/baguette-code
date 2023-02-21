@@ -40,19 +40,19 @@ Comme je l'ai dit plus tôt, je voudrais partager avec vous mes ressources préf
 	- Un peu similaire au podcast de Duolingo, mais il n'utilise presque pas l'Anglais. Cependant, il parle très lentement et sa prononciation est super claire.
     - J'utilise ce podcast aussi pour "shadowing". C'est-à-dire que après la première fois que j'écoute un de ses podcasts, je vais écouter encore une fois où je parle avec lui, grâce à la transcription qu'il offre.
 - **Little Talk in Slow French podcast**
-	- Environ le même niveau de innerFrench. J'adore ses podcasts sur les arts et la culture française.
+	- Environ le même niveau de innerFrench. 
+    - Personellement, j'adore ses podcasts sur les arts et la culture française.
 - **Le podcast Fluidité**
-	- Ce podcast est plus difficile que les précédents, parce que l'hôte parle à vitesse normale.
-    - À ce moment, j'en comprends environ 60-70%.
+	- Ce podcast est plus difficile que les précédents, parce que l'hôte parle à vitesse normale, même s'il utilise les vocabulaires simples. 
+    - À ce moment, j'en comprends environ 70%.
 - **Je Parle Baguette podcast**
-	- Celui-ci est un peu bizarre, parce qu'il ne parle pas du tout vite, mais j'ai souvent du mal à le comprendre quand même. Je crois que c'est parce qu'il vient de Marseille et il a un accent du sud, donc c'est pratique pour m'en habituer.
+	- Celui-ci est un peu bizarre, parce qu'il ne parle pas du tout vite, mais j'ai souvent du mal à le comprendre quand même. Je crois que c'est parce qu'il vient de Marseille et il a un accent du sud. C'est pratique pour vous en habituer.
 - **Apprendre le français avec TV5Monde**
-	- Celui-ci est très très très difficile parce que leur contenu vient des émissions pour les natifs. Donc, même si vous choississez le niveau A1, c'est toujours difficile. La difference, c'est que aux niveaux plus faciles, les questions sont plus faciles, même si le contenu rest difficile.
-    - Peut-être que vous pouvez l'essayer au environ niveau B2.
+	- Celui-ci est super difficile parce que leur contenu vient directement des émissions pour les natifs. Donc, même si vous choississez le niveau A1, c'est toujours difficile. La difference, c'est que aux niveaux plus faciles, les questions sont plus faciles, même si le contenu rest difficile.
+    - C'est une bonne idée de gagner au moins du niveau B1 avant de l'essayer.
 - **Dictée d'Archibald - TV5Monde**
-	- Difficile, mais faisable. Il vous aide d'épeler des mots correctement.
-    - À ce moment, je fais cette dictée au niveau B1, et j'essaie d'en faire un chaque jour.
+	- Difficile, mais faisable. Il vous aide d'épeler des mots correctement. Essayez d'en faire un chaque jour.
 - **Un certain genre d'écriture quotidienne**
-	- Autour du niveau B1, vous avez déjà la connaissance suffisante pour produire vos propres matériaux comme un journal ou un blog. Vous pouvez aussi utilisez ce site: https://www.reddit.com/r/WriteStreak/
+	- Autour du niveau B1, vous avez déjà la connaissance suffisante pour produire vos propres matériaux comme un journal ou un blog. Vous pouvez également utiliser ce site: [https://www.reddit.com/r/WriteStreak/](https://www.reddit.com/r/WriteStreak/)
 
 Et voilà, ce sont tous les ressources que j'utilise actuellement pour apprendre le français. Créer une immersion imaginaire est la clé. Par exemple, vous pouvez écouter des podcasts quand vous préparez votre petit-déjeuner, quand vous vous déplacez ou avant de dormir. À l'avenir quand je serai au niveau B2, je pense que j'essayerai aussi iTalki et RFI Savoirs parce que j'en ai entendu déjà parler beaucoup. Bonne chance !
