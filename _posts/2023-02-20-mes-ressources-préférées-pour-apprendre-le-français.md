@@ -30,12 +30,12 @@ Comme je l'ai dit plus tôt, je voudrais partager avec vous mes ressources préf
     - Quand vous ne comprenez pas certain enregistrement, vous pouvez le jouer sur votre ordinateur et utilisez Google Translate sur votre portable pour le traduire, ou vice versa. Appuiez le bouton du micro et laissez l'un écouter l'autre.   
 - **Anki**
 	- C'est une application de cartes mémoires, ou "flashcards". Commencez l'utiliser quand vous êtes entre au niveau A2 et B1, parce que à ce moment, il y aura beaucoup plus de nouveaux mots que vous allez rencontrer dans vos matériels de lecture et d'écoute.
-    - J'utilise toujours le genre de carte "Basic and reversed" comme il me permettre de réviser la traduction de l'anglais au Français aussi bien que du Français à l'anglais. 
+    - J'utilise toujours le genre de carte "Basic and reversed" comme il me permettre de réviser la traduction de l'anglais au français aussi bien que du français à l'anglais. 
 - **Reverso Context**
 	- Un bon dictionnaire gratuit avec plein d'exemples de phrases. 
 - **Duolingo podcast**
 	- Autour de niveau A2 et B1, vous pouvez profiter des podcasts et le podcast de Duolingo est un choix excellent pour commencer.
-    - Il mélange l'anglais et le Français, donc c'est un peu plus facile de comprendre. Surtout, sa qualité de production est vraiment top. 
+    - Il mélange l'anglais et le français, donc c'est un peu plus facile de comprendre. Surtout, sa qualité de production est vraiment top. 
 - **innerFrench podcast**
 	- Un peu similaire au podcast de Duolingo, mais avec presque non l'anglais. Cependant, il parle très lentement et sa prononciation est super claire.
     - J'utilise aussi ce podcast pour "shadowing". C'est-à-dire qu'après avoir écouté un de ses podcasts la première fois, je vais écouter encore une fois où je parle avec lui, grâce à la transcription qu'il offre.
