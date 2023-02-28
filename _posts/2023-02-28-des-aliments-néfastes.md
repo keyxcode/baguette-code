@@ -1,5 +1,12 @@
 ---
 published: true
+categories:
+  - health
+tags:
+  - education
+  - health
+  - summary
+  - français
 ---
 ## Arrêtez de manger tous vos aliments préférés !
 
