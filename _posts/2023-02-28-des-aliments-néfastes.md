@@ -10,7 +10,7 @@ tags:
 ---
 ## Arrêtez de manger tous vos aliments préférés !
 
-J'ai plaisanté, j'ai plaisanté. Je viens d'écouter [cet épisode](https://open.spotify.com/episode/4Y0V5eWg4EmWltK5gNcFlu?si=eZXwL3ulSfGTIVakdd_UaA) du podcast "Little Talk in Slow French", où l'Hôte parle d'aliments néfastes pour la planète et, je veux vous en faire un petit résumé. Restez assuré, comme elle l'a dit elle-même dans le podcast, on n'a pas besoin d'arrêter de manger tous ces aliments, mais il est important de les manger moins et, de les remplacer par de meilleures alternatives, si possible.
+J'ai plaisanté, j'ai plaisanté. Je viens d'écouter [cet épisode](https://open.spotify.com/episode/4Y0V5eWg4EmWltK5gNcFlu?si=eZXwL3ulSfGTIVakdd_UaA) du podcast "Little Talk in Slow French", où l'hôte parle d'aliments néfastes pour la planète et, je veux vous en faire un petit résumé. Restez assuré, comme elle l'a dit elle-même dans le podcast, on n'a pas besoin d'arrêter de manger tous ces aliments, mais il est important de les manger moins et, de les remplacer par de meilleures alternatives, si possible.
 
 Parmi les aliments qu'elle a mentionnés, il y en a certains que je connaissais déjà, comme la viande, le sucre, l'huile de palme, etc. Mais, il y a d'autres qui me surprennent, par exemple : le chocolat, les avocats, le café ou les amandes. J'ai toujours entendu parler qu'ils sont très bons pour la santé, mais apparemment, ils ne sont pas si bons pour la planète.
 
