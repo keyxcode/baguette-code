@@ -1,5 +1,12 @@
 ---
 published: true
+categories:
+  - self
+tags:
+  - education
+  - self
+  - français
+  - language
 ---
 ## Un petit post pour moi et mes amis qui apprennent le français
 
