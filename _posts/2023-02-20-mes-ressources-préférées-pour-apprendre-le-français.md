@@ -6,6 +6,7 @@ tags:
   - education
   - technology
   - français
+  - language
 ---
 ## Il y a trop d'options !
 
