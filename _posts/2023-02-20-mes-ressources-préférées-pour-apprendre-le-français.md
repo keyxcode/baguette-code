@@ -1,5 +1,11 @@
 ---
 published: true
+categories:
+  - education
+tags:
+  - education
+  - technology
+  - français
 ---
 ## Il y a trop d'options !
 
