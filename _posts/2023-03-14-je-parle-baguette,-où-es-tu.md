@@ -3,7 +3,7 @@ published: true
 ---
 ## Internet, vous avez une petite idée ?
 
-Je viens de finir d'écouter le podcast « Je parle baguette », animé par un homme qui s'appelle Charles, hier et je suis en fait un peu inquiet. Parmi tous les podcasts que j'ai commencés à écouter cette année, c'est le premier que j'ai terminé. C'est parce qu'il a arrêté de l'enregistrer en février 2019. 
+Je viens de finir d'écouter tous les épisodes du « Je parle baguette », animé par un homme qui s'appelle Charles, hier et je suis en fait un peu inquiet. Parmi tous les podcasts que j'ai commencés à écouter cette année, c'est le premier que j'ai terminé. C'est parce qu'il a arrêté de l'enregistrer en février 2019. 
 
 C'est un podcast que j'aime très bien, grâce à son humour et à sa façon décontractée. La plupart des autres podcasts a souvent un style un peu plus formel, un peu plus sérieux. Au contraire, le podcast de Charles a l'air plus improvisé et naturel. Des fois, il l'a enregistré quand il marchait dehors ou quand il était dans sa cuisine, par exemple. Du coup, la qualité d'enregistrement n'est pas toujours parfait. Mais j'adore ça parce que j'ai l'impression de parler au téléphone. 
 
