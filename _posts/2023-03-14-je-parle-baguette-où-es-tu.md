@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Internet, est-ce que tu as une petite idée ?
 
@@ -10,4 +10,3 @@ C'est un podcast que j'aime très bien, grâce à son humour et sa façon décon
 Surtout, le podcast est aussi informatif. Il parle des nouvelles, des villes françaises et des personnes historiques importantes. J'ai appris quelques expressions francaises grâce à lui aussi. L'un de mes préféres, c'est « Une fois n'est pas coutume ».
 
 En tout cas, c'est un peu bizarre pour moi de le voir s'arrêter. Quelques episodes avant le dernier, il a même parlé du fait qu'il avait trouvé un sponsor, et qu'il avait hâte de l'améliorer beaucoup plus. Bon, j'espère que tout est bien pour lui et qu'il a s'arrêté seulement parce que sa vie deviennait trop chargée. Si vous lisez ce poste et vous lui connaissez, peut-être que vous pouvez moi laisser d'un petit info  ? Merci Internet !
-
