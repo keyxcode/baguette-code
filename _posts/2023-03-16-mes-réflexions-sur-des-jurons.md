@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## P**** !!!
 
@@ -11,3 +11,6 @@ La seconde catégorie que je crois qu'on devrait éviter est celle où on jure a
 
 Un peu contrairement, je crois que certains gens utilisent bien des jurons. Si vous regardez des comédies stand-up, par exemple, vous savez bien que des jurons peuvent être très charmants et indispensable pour certains comédiens ou comédiennes. Ou peut-être que vous avez même un ami comme ça, qui est très drôle avec des jurons. Dans ces cas où des jurons sont utilisés pour l'humour, je pense que c'est parfaitement acceptable. Ce point est très subjectif bien sûr, parce que chacun a une idée differente de ce qui est drôle et ce qui n'est pas du tout.
 
+La dernière catégorie dont je veux discuter, c'est quand on jure pour soulager la douleur. Je me souviens avoir lu un article qui montre que la douleur physicale ou même émotionelle peut se diminuer quand on jure. Dans ces cas-là, je diras on peut jure autant qu'on veut. Si vous marchez sur un morceau de Lego et un juron ou deux peuvent vous aider à vous sentir moins douloureux, pourquoi pas ?
+
+Voilà ! Comme pleins d'autres choses, des jurons sont un util que nous tous avons. Et comme n'importe quel util, c'est des façons de l'utliser bien et de l'utiliser mal. À fin de compte, le plus important selon moi, c'est d'éviter les utliser violemment ou sans réfléchir. Si vous les utilisez sans mauvaise intention et avec des réflexions, je dirais que tout est bon. 
