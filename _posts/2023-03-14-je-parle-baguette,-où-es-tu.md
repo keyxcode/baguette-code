@@ -1,5 +1,12 @@
 ---
 published: true
+categories:
+  - hey internet
+tags:
+  - français
+  - education
+  - language
+  - hey internet
 ---
 ## Internet, vous avez une petite idée ?
 
