@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## P**** !!!
+## P****** !!!
 
 Je ne sais pas si des jurons existent dans toutes les langues, mais dans toutes celles que je connais, ils jouent un rôle important. C'est très naturel parce que nous, comme être humains, avons parfois des émotions fortes. Quand nous sommes en colère par exemple, des jurons peuvent nous aider à nous exprimer. Mais à mon avis, il y a certaines situations où nous pouvons les utiliser, et d'autres où nous ne devrions pas le faire.
 
