@@ -1,5 +1,13 @@
 ---
 published: true
+categories:
+  - self
+tags:
+  - education
+  - technology
+  - français
+  - self
+  - career
 ---
 ## J'ai fait ma première contribution à un logiciel open source hier !
 
