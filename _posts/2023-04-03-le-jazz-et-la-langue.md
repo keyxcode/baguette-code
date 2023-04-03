@@ -7,4 +7,9 @@ L'improvisation de jazz, c'est sans doute une des choses la plus difficile que j
 
 La première fois que j'ai entendu parlé du jazz, c'était sur un film américain que j'ai regardé sur la télé quand j'étais petit. Il y avait un musicien qui racontait la clé et le tempo à quelques autres musiciens et puis ils ont commencé à jouer ensemble tout de suite. À l'époque, j'apprenais de la musique classique basique où on doit tout mémoriser sans improvisation, donc ça me semblait comme magique. J'étais étonné et je suis toujours étonné.
 
-Plusieurs années plus tard, je suis allé à l'université pour la musique et là, j'ai eu de la chance d'apprendre le jazz formellement. J'ai commencé à comprendre qu'il y avait. 
+Plusieurs années plus tard, je suis allé à l'université pour la musique et là, j'ai eu de la chance d'apprendre le jazz formellement. J'ai commencé à comprendre qu'il y avait des régles et de la théorie à l'arrière de la musique pour que les musiciens puissent improviser. L'improvisation ne se déroule pas par hasard, mais sur une base fondamentale. Dans le jazz particulièrement, il y a beaucoup de théories avancées et j'adorais ça.
+
+Néanmoins, après des heures d'apprendre autant de la théorie que possible, je trouvais que j'avais encore du mal avec l'improvisation. Je ne pouvais pas improviser très bien même si je savais tous ces gammes, tous ces harmonies avancées.
+
+Ce que j'ai manqué, c'est le mémorisation musculaire. J'étais trop étonné par tous les savoir-faires que j'ai oublié de simplement le faire. Je ne suis pas rendu compte que à fin de compte, le performance de la musique en général et même du jazz, c'est une activité que l'on fait d'abord avec son corps et puis avec son cerveau. Je pensais que je pouvais improviser par tout simplement apprendre toutes la théories, et c'est exactement pourquoi je n'ai pas réussi. La vérité, c'est plutôt que l'on apprendre un ou deux nouvelle théories et puis passer au moins quelques mois de pratiquer tous les jours pour que ses doigts puissent bouger automatiquement sous le principe de ces théories. Seulement après ça que l'on devrait passer à la théorie suivante.
+
