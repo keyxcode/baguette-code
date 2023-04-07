@@ -1,5 +1,13 @@
 ---
 published: true
+categories:
+  - education
+tags:
+  - education
+  - language
+  - music
+  - self
+  - français
 ---
 ## La conversation, n'est-ce pas juste une sorte d'improvisation ?
 
