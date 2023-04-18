@@ -3,7 +3,7 @@ published: false
 ---
 ## Le mot travail vient d'un mot latin qui signifie une machine de torture
 
-Oui, c'est vrai. Je viens d'apprendre ce fait d'un épisode du podcast Passerelles. Dans cette épisode, l'animatrice parle du phénomène pendant ces dernière années où les gens veulent chercher beaucoup plus dans leur travail que seulement de l'argent et un moyen pour vivre. Tout le monde cherche un métier passion, quelque chose qui lui donne un sens dans la vie. Cependant, je suis d'accord avec l'hôte que cette idée est peut-être une fausse bonne idée.
+Oui, c'est vrai. Je viens d'apprendre ce fait [d'un épisode du podcast Passerelles](https://open.spotify.com/episode/3ECVfkJBaIe9ZiDDAXstQ3?si=6oF55_GCT8miAffR3eqlPA). Dans cette épisode, l'animatrice parle du phénomène pendant ces dernière années où les gens veulent chercher beaucoup plus dans leur travail que seulement de l'argent et un moyen pour vivre. Tout le monde cherche un métier passion, quelque chose qui lui donne un sens dans la vie. Cependant, je suis d'accord avec l'hôte que cette idée est peut-être une fausse bonne idée.
 
 Tout d'abord, l'idée d'un métier passion peut-être problematique parce que certains métiers se prêtent plus facilement à cette idée que d'autres. Très souvent, quand on parle de passion, on parle des choses qui sont liées à des loisirs comme un sport, un art ou quelque sortie de jeux. Néanmoins, ce sont des métiers hyper-compétitifs. Pour chaque histoire de succèss inpirant qu'on peut lire, il y a de centaines d'autres des gens qui ne trouvent pas sa place.
 
