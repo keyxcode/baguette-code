@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Les imperfections donnent du caractère à la vie, qu'on les retrouve dans les choses, les personnalités ou les lieux.
 
