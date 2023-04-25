@@ -1,11 +1,11 @@
 ---
 published: true
 ---
-## Les imperfections donnent du caractère à la vie, qu'on les retrouve dans les choses, les personnalités ou les lieux.
+## « Les imperfections donnent du caractère à la vie, qu'on les retrouve dans les choses, les personnalités ou les lieux. »
 
-C'est la phrase que j'ai vue récemment qui me donne envie de remettre en question la définition de la perfection. Plus que j'y pense, plus que je me rends compte qu'elle n'existe pas vraiment. Cependant, comme être humains, nous la cherchons toujours quand même.
+Cette phrase, que j'ai lue récemment, me donne envie de remettre en question ma définition de la perfection. Plus j'y pense, plus je me rends compte qu'elle n'existe pas vraiment. Cependant, en tant qu'êtres humains, nous continuons quand même de la chercher.
 
-Pourquoi je pense que l'imperfection n'existe pas ? Puisque nous sommes tous différents, chacun d'entre nous a une vision différente, parfois opposée, de comment le monde devrait être. À cause de ça, ce qui est parfait pour moi n'est pas nécessairement parfait pour vous. Et ce n'est pas le cas seulement dans le monde d'humain. Pour un poisson, l'eau est l'environnement parfait, mais pas pour un oiseau. Je constate que dans la nature, il n'y a pas de perfection, seulement l'équilibre. L'équilibre pour que la vie puisse prospérer.
+Pourquoi je pense que la perfection n'existe pas ? Puisque nous sommes tous différents, chacun d'entre nous a une vision différente du monde, parfois opposée. Pour cette raison, ce qui est parfait pour moi ne l'est pas nécessairement pour vous. Et ce n'est pas le cas seulement dans le monde des humains. Pour un poisson, l'eau est l'environnement parfait, mais pas pour un oiseau. Je constate que dans la nature, il n'y a pas de perfection, seulement l'équilibre. L'équilibre pour que la vie puisse prospérer.
 
 Cependant, beaucoup d'entre nous la cherchent encore : la beauté parfaite, la compétence parfaite, la condition parfaite de la vie, etc. Qu'est-ce que nous cherchons exactement si la perfection n'existe pas ? Peut-être que c'est un type de "perfection relative" - quelque chose qui est considérée comme parfaite pour un certain groupe de personnes, mais pas pour d'autres. Quand on chasse cette perfection d'une façon saine, je trouve qu'elle est peu différente de la réalisation de soi.
 
