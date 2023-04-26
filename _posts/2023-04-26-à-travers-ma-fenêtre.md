@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## À travers ma fenêtre, qu'est-ce que je vois ?
 
@@ -7,4 +7,4 @@ published: false
 
 Au-delà du parc, je vois des maisons. Elles sont très nombreuses et très proches l'un de l'autre, comme elles se battent pour l'espace. Il n'y a que des maisons privées, car certaines d'entre elles sont aussi des petits commerces. Quel genre de commerces ? Tout. Il y a des magasins. Il y a des petits restaurants et des brasseries. Il y a aussi des écoles privées et des centres de langues. Tous à proximité.
 
-Plus loin, je vois des grands immeubles. Certains sont en construction, les autres sont prêts. La ville n'a plus beaucoup d'espaces libres, alors qu'elle devient encore plus peuplée. Alors, la seule solution est de dévélopper verticalement. En effet, la ville est en dévéloppement rapide.
+Plus loin, je vois des grands immeubles. Certains sont en construction, les autres sont prêts. La ville n'a plus beaucoup d'espaces libres, alors qu'elle devient encore plus peuplée. Alors, la seule solution est de dévélopper verticalement. En fait, je suis en train d'écrire ce texte d'un grand immeuble moi-même. La ville est en dévéloppement rapide.
