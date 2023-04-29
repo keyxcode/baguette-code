@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Avec les avancées technologiques, est-ce que ces compétences sont encore importants ?
 
