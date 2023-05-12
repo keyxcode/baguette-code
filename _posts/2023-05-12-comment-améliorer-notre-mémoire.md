@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Avoir un but précisé. Avoir un environnement sans stresse. Répéter.
 
@@ -7,4 +7,8 @@ La mémorisation et l'une des choses un peu stigmatisée parmi pas mal de person
 
 Pourquoi je suis convaincu que tout le monde a une mémoire capable ? En moyenne, un natif de n'importe quelle langue sait au moins de 15,000 à 20,000 mots. Si vous êtes capable d'utiliser votre langue maternelle, alors par définition, vous avez une mémoire capable. Néanmoins, dans beaucoup de cas, notre système d'éducation, en utilisant les mauvaises méthodes pour la mémoire, nous donne l'impression que nous avons du mal à mémoriser.
 
-Voyons la façon qu'une bébé apprende une langue. Qu'est qu'elle veut ? Elle veut communiquer avec ses parents. Est-ce que l'environnement autour d'elle est stressé ? Je crois que non, dans la plupart de cas. Les parents ne lui punissent pas si elle fait une erreur. Ils répètent les mots corrects pour que la bébé puisse les apprendre à nouveau. Au contraire, vous pouvez voir que c'est presque exactement opposé à l'école. Parfois, nous ne comprenons pas vraiment pourquoi nous devons apprendre une certaine chose, sauf de réussir un examen. Nous sommes souvent stressés par soit nos enseignants, soit les examens. Et très souvent, nous devons passer à un nouveau sujet avant que nous avons suffisament répété le précédent.
+Voyons la façon qu'une bébé apprende une langue. Qu'est qu'elle veut ? Elle veut communiquer avec ses parents. Est-ce que l'environnement autour d'elle est stressé ? Je crois que non, dans la plupart de cas. Les parents ne lui punissent pas si elle fait une erreur. Ils répètent les mots corrects pour que la bébé puisse les apprendre à nouveau. Au contraire, vous pouvez voir que c'est presque exactement opposé à l'école. Parfois, nous ne comprenons pas vraiment pourquoi nous devons apprendre une certaine chose, sauf de réussir un examen. Nous sommes souvent stressés par soit nos enseignants, soit les examens. D'ailleurs, très souvent, nous devons passer à un nouveau sujet avant que nous avons suffisament répété le précédent.
+
+Je trouve que j'ai énormement amélioré ma mémoire et ma capacité d'apprendre en suivant ces trois idées et en apprenant comme une bébé. Et personellement, je trouve également que c'est plus facile de les atteindre si j'apprends la plupart de temps par moi-même. Pour apprendre le français, par exemple, j'ai un but très précisé qui est de réussir le DELF B2. Au même temps, je ne me stresse pas parce que je comprends que ça va prendre du temps. Et j'essaie d'avoir autant de répétition que possible en utilisant des supports divers : écouter un podcast quand je prépare des repas, réviser des flashcards avant que je vais au lit, etc. J'ai aussi appris la programmation, un sujet que je n'ai jamais compris à l'école, de la même façon.  
+
+Ironiquement, c'est seulement après que je sors les écoles que j'ai commencé à avoir ce développement.
