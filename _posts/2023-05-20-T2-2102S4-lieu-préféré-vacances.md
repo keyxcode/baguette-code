@@ -6,7 +6,7 @@ Sujet : Ecrire un blog sur le dernier voyage que vous avez aimé (Parlez dans un
 
 Danang, un lieu magique
 
-Parmi les belles villes touristiques du Vietnam, Danang est probablement mon endroit préféré. Au cours des quatre derniers ans, j'y suis déjà allé trois fois et j'ai l'intention d'y retourner cet été.
+Parmi toutes les belles villes touristiques du Vietnam, Danang est probablement mon endroit préféré. Au cours des quatre derniers ans, j'y suis déjà allé trois fois et j'ai l'intention d'y retourner cet été.
 
 Située au sud du Vietnam, Danang est une ville côtière connue pour ses belles plages de sable. Pour être honnête, quand j'y suis allé l'été dernier, j'ai passé la plupart de mon temps à me détendre sur l'une de ces plages, à regarder l'océan et à rien faire. Pour moi, c'est la meilleure façon de profiter d'un tellement beau paysage et cela m'a donné la tranquillité d'esprit.
 
