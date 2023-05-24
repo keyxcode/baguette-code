@@ -6,7 +6,7 @@ https://www.tcfca.com/se-preparer/tcf-canada-expression-ecrite-fevrier-2023/#
 Vous avez commencé à prendre des cours dans une université canadienne. Vous envoyez un message à votre ami pour lui raconter votre première semaine. Vous donnez votre opinion sur l’université et sur les cours,
 
 ---
-Bonjour Celine,
+Bonjour Céline,
 
 Je ne le crois pas, mais ça fait déjà une semaine que j'ai commencé mes études à l'université. Beaucoup a changé, mais je l'adore. Tiens, je vais tout te raconter.
 
