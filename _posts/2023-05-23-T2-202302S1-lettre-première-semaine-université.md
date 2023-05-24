@@ -8,9 +8,9 @@ Vous avez commencé à prendre des cours dans une université canadienne. Vous e
 ---
 Bonjour Céline,
 
-Je ne le crois pas, mais ça fait déjà une semaine que j'ai commencé mes études à l'université de Victoria. Beaucoup a changé, mais je l'adore. Tiens, je vais te tout raconter.
+Je ne le crois pas, mais ça fait déjà une semaine que j'ai commencé mes études à l'université de Victoria. Beaucoup a changé, mais je l'adore. Tiens, je vais tout te raconter.
 
-Tout d'abord, mes cours sont bien allés et les professeurs ont été gentils. Comme ce n'est que la première semaine, je n'ai pas beaucoup de devoirs. La plupart de mes professeurs a mis du temps pour expliquer les regles des cours et pour faire une introduction générale des sujets. Par contre, je crois que les semaines suivantes seraient beaucoup plus chargées. C'est ce que j'ai entendu parler au moins.
+Tout d'abord, mes cours sont bien allés et les professeurs ont été gentils. Comme ce n'est que la première semaine, je n'ai pas beaucoup de devoirs. La plupart de mes professeurs a mis du temps pour expliquer les règles des cours et pour faire une introduction générale des sujets. Par contre, je crois que les semaines suivantes seraient beaucoup plus chargées. C'est ce dont j'ai entendu parler au moins.
 
 En ce qui concerne ma vie sociale, je me suis fait quelques nouveaux amis et on est allé en ville ensemble il y a deux jours. Le centre-ville était tellement animé et on a passé un bon moment à boire et à manger à un restaurant local. Je t'avoue et ma famille me manque énormément, mais mes nouveaux amis m'ont vraiment remonté la morale.
 
