@@ -1,6 +1,8 @@
 ---
 published: false
 ---
+https://www.tcfca.com/se-preparer/tcf-canada-expression-ecrite-fevrier-2023/#
+
 Vous avez commencé à prendre des cours dans une université canadienne. Vous envoyez un message à votre ami pour lui raconter votre première semaine. Vous donnez votre opinion sur l’université et sur les cours,
 
 ---
