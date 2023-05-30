@@ -1,0 +1,10 @@
+---
+published: false
+---
+## Rassurez-vous, ce n'était pas grave.
+
+Ça m'est arrivé la semaine dernière quand je passais un chantier hier près de chez moi. Il y a une clôture temporaire autour de lui, et comme elle est solide, on ne voit rien à l'intérieur. J'avais déjà passé ce site plusieurs fois et jusqu'à ce point-là, je pensais toujours qu'il était complètement fermé par la clôture. Mais en fait, il y a une porte de sortie hyper-cachée. La porte est faite pour que les véhicules sortent et elle a la même couleur que la clôture. Ce jour-là, quand je passais presque devant la porte, une autre grosse moto est venue de sortir. J'étais tellement surpris que j'ai freiné tout de suite. À cause de l'arrêt immédiat, j'ai perdu le contrôle et je suis tombé avec ma moto. Heureusement, je dirais, il n'y a eu aucun impact avec l'autre moto. 
+
+Le résultat : j'ai eu quelques coupures et contusions, et le rétroviseur de gauche de ma moto a été cassé. Ce n'était pas idéal, non, mais cela aurait pu être beaucoup pire. En fait, ce qui m'a énervé le plus était la réaction d'autre conducteur. Sa première réaction, une seconde après l'incident, et de me reprocher à quel point ma manière de conduire était mauvaise, tout quand je ne suis pas arrivé à me lever. C'est un peu la mode de vie ici : il devait se défendre tout d'abord au cas où j'étais une personne plus aggressive et que j'allais lui demander un dédommagement. Même si je comprends ça, ça m'a quand même vraiment énervé.    
+
+Aujourd'hui, après une semaine, 
