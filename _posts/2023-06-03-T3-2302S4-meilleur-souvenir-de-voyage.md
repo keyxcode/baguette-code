@@ -13,4 +13,4 @@ Bien sûr, j'adore visiter des beaux paysages comme tout le monde, mais pour moi
 
 C'est un peu ironque, parce qu'au début, j'ai prévu un voyage seul par moi-même. Cependant, ce plan a changé lorsque j'ai rencontré James, l'hôte de la chambre dans laquelle j'ai réservé un chambre. Il était artiste et il était simplement la personne la plus accueillant que je n'ai jamais vue. Cette nuit, il y a eu un petit événement de peinture dans son jardin avec ses amis, et il m'a invité de rejoindre avec d'autres suppositions dans la maison. Je me suis bien amusé. Le lendemain était un dimanche, et encore une fois il m'a invité de rejoindre avec quelques d'autres personnes d'aller à la plage. Là, on partagait quelques pistes de bières, parlait de nos vies et passait un très beau temps.
 
-Même si
+Même si j'y suis resté pendant seulement deux jours, ça reste l'un des meilleurs mémoirs d'entre tous mes voyages.
