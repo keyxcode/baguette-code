@@ -14,8 +14,8 @@ Vous avez reçu ce message. répondez à votre ami pour lui décrire cette sorti
 
 Bonjour Sylvie,
 
-Oui, ça me semble une bonne idée. Ça fait longtemps qu'on n'a pas sorti ensemble. J'ai été très stressé avec mon travail, alors je crois qu'une journée au parc va m'aider à vider la tête.
+Oui, ça me semble être une bonne idée. Ça fait longtemps qu'on n'est pas sorti ensemble. J'ai été très stressé par mon travail, alors je crois qu'une journée au parc va m'aider à me vider la tête.
 
-Ce dimanche, je serais disponible pratiquement toute la journée, à partir de neuf heures du matin. Est-ce que tu pourrais venir me chercher ? Sinon, pas de problème, je prendrais un bus et on pourra se retrouver au parc vers dix heures. En ce qui concerne des activités, je dois te prévoir que j'ai toujours peur des montagnes russes, donc je préférerais ne pas faire cela. Mais je suis prêt à faire toutes les autres.
+Ce dimanche, je serai disponible pratiquement toute la journée, à partir de neuf heures du matin. Est-ce que tu pourrais venir me chercher ? Sinon, pas de problème, je prendrai un bus et on pourra se retrouver au parc vers dix heures. En ce qui concerne les activités, je dois te prévenir que j'ai toujours peur des montagnes russes, donc je préférerais ne pas en faire. Mais je suis partant pour toutes les autres !
 
-Fais-moi savoir ce que tu penses !
+Fais-moi savoir ce que tu en penses !
