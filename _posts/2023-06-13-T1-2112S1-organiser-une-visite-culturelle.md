@@ -11,6 +11,6 @@ Chers amis,
 
 Je suis tellement heureux que vous allez à Hanoï cette semaine ! Comme c'est votre premiere visite à cette ville, j'aimerais vraiment être votre guide et vous montrer ceux que la ville a à offrir !
 
-Comme vous allez arriver tard jeudi soir, je pense que çe sera mieux de commencer vendredi après-midi. Les rues autour du lac centre dévient toujours les rues piétonnes les vendredis, donc ça sera un endroit fantastique pour nous balader. Il y a aussi plusieurs restaurants vietnammiens authentiques près du lac donc quand nous sommes fatigués, nous pouvons toujours nous arrêter et profiter des aliments locaux.
+Comme vous allez arriver tard jeudi soir, je pense que çe sera mieux de commencer vendredi après-midi. Les rues autour du lac centre dévient toujours les rues piétonnes les vendredis, donc ça sera un endroit fantastique pour nous balader. Il y a aussi plusieurs restaurants vietnammiens authentiques près du lac donc quand nous sommes fatigués, nous pouvons toujours nous arrêter et profiter des aliments locaux. Ensuite, nous pouvons allons prendre un verre pour découvrir le célèbre café vietnamien.
 
 Fais-moi savoir ce dont vous pensez !
