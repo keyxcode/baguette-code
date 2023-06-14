@@ -9,8 +9,8 @@ Vous voulez organiser une visite culturelle dans votre ville. Vous envoyez un me
 
 Chers amis,
 
-Je suis tellement heureux que vous allez en ville cette semaine ! Comme c'est votre première visite à ici, j'aimerais vraiment être votre guide et vous montrer ce que la ville a à offrir !
+Je suis tellement heureux que vous alliez en ville cette semaine ! Comme ça sera votre première visite à ici, j'aimerais vraiment être votre guide et vous montrer ce que la ville a à offrir !
 
-Comme vous allez arriver tard jeudi soir, je pense que ça sera mieux de commencer vendredi après-midi. Les rues autour du lac centre dévient toujours les rues piétonnes les vendredis soirs, donc ça sera un endroit fantastique pour nous balader. Il y a aussi plusieurs restaurants authentiques près du lac donc quand nous sommes fatigués, nous pouvons toujours nous arrêter et profiter des aliments locaux. Ensuite, nous pouvons aller prendre un verre pour découvrir le célèbre café vietnamien.
+Comme vous arriverez tard jeudi soir, je pense qu'il vaudra mieux commencer vendredi après-midi. Les rues autour du lac centre dévient toujours piétonnes le vendredi soir, donc ça sera un endroit idéal pour nous balader. Il y a aussi plusieurs restaurants authentiques près du lac donc si nous serons fatigués, nous pourrons toujours nous arrêter et déguster des aliments locaux. Ensuite, nous pourrons aller prendre un verre pour découvrir le célèbre café vietnamien.
 
 Fais-moi savoir ce que vous pensez !
