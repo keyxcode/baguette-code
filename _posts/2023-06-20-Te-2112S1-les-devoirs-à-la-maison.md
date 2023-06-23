@@ -12,8 +12,6 @@ Document 2: Nous protestons depuis lontemps contre les devoirs à la maison pour
 ---
 Les devoirs à la maison.
 
-Pour certains parents d'élèves, les devoirs scolaires aident à leurs enfants d'apprendre la gestion de temps. De plus, ils trouvent que ceux-ci peuvent renforcer la relation parents-enfants. En revanche, d'autres parents sont convaincus que les devoirs n'ont rien à faire avec le performance d'élèves. Selon eux, les devoirs ne font qu'enlargir l'écart entre de bons élèves et des moins bons élèves.
+Pour certains parents d'élèves, les devoirs scolaires aident leurs enfants à apprendre la gestion de temps. De plus, ils trouvent que ceux-ci peuvent renforcer la relation parents-enfants. En revanche, d'autres parents sont convaincus que les devoirs n'ont rien à faire avec la performance d'élèves. Selon eux, les devoirs ne font qu'élargir l'écart entre de bons élèves et des moins bons élèves.
 
-Pour moi, je pense que les devoirs à la maison peuvent être utiles, mais seulement s'ils ne rendent pas les élèves stressé. Par exemple, peut-être que les enseignants peuvent créer des projets un peu plus excitants au lieu des exercices traditionelles qui son franchement ennuyeuses pour les jeunes. De plus, je crois que c'est une bonne idée de ne pas noter ces devoirs. À la place, les élèves peuvent préparer des questions sur ceux qu'ils trouvent difficiles dans les devoirs et les partagent en classe. À mon avis, ça serait beaucoup plus productive et moins stressant pour tous : les élèves, leurs parents et les professeurs. 
-
-
+Pour moi, je pense que les devoirs à la maison peuvent être utiles, mais seulement s'ils ne rendent pas les élèves stressés. Par exemple, peut-être que les enseignants peuvent créer des projets un peu plus intéressants au lieu des exercices traditionnels qui sont franchement ennuyeuses pour les jeunes. De plus, je crois que c'est une bonne idée de ne pas noter ces devoirs. À la place, les élèves peuvent préparer des questions sur ce qu'ils trouvent difficile dans les devoirs et le partagent en classe. À mon avis, ça serait beaucoup plus productif et moins stressant pour tous : les élèves, leurs parents et les professeurs.
