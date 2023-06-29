@@ -10,4 +10,4 @@ Certaines personnes adorent la façon de la vie en ville, avec tous ses moyens d
 
 À mon avis, je dirais que chacune de ses deux opinions a également raison. Quelle option est la meilleure dépend de nos priorités dans la vie. Si vous êtes jeun est que vous souhaitez faire progresser votre carrière, peut-être qu'il vaut mieux vivre dans une grande ville où il y a plus d'opportunités d'emploi. Par contre, pour ceux qui vont bientôt prendre la retraite, c'est logique de déménager à un endroit calme pour profiter de la nature et échapper le bruit des grande villes.
 
-En résumé, il n'y a pas une seule réponse à cette question classique : la vie en ville contre la vie à la campagne. Chacun d'entre nous a ses propres priorités, ce qui vont nous mener au choix le plus raisonnable.
+En résumé, il n'y a pas une seule réponse à cette question classique : la vie en ville contre la vie à la campagne. Chacun d'entre nous a ses propres priorités, ce qui vont nous mener au choix le plus judicieux.
