@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-Le sujet : 
+Le sujet : Votre école de musique cherche un local pour organiser la fête de fin d'année. Vous envoyez un message à la direction pour leur dire que vous avez trouvé un local idéal.
 
 https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-ecrite-tache-2-sujet-4-octobre-2021/
 
