@@ -7,4 +7,4 @@ Durant mon temps libre, j'aime faire du sport. J'aime bien les sports individuel
 
 Je suis aussi passioné par la programmation. En fait, je suis un peu en train de changer ma voie de carrière à la programmation pour deux raisons principales. Premièrement, bien que j'adore la musique, je trouve que d'enseigner aux enfants à jouer du piano n'est pas quelque chose que je peux faire pour le reste de ma vie. Je ne trouve pas ça assez intéressant. Et deuxièmement, la programmation est une carrière plus stable financièrement.
 
-Comme je l'ai dit, j'habite à Hanoï, la capitale du Vietnam. C'est une assez grande ville.
+Comme je l'ai dit, j'habite à Hanoï, la capitale du Vietnam. C'est une assez grande ville avec beaucoup de points culturels intéressants, par example le lac central ou le vieux quartier. L 
