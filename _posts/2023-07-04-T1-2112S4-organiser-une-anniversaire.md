@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-Le sujet: 
+Le sujet: Écrivez un courriel à vos amis pour les inviter à un anniversaire surpris pour votre meilleur(e) ami(e) et proposez de lui offrir un cadeau commun. (Le lieu, les cadeaux, et les activitiés)
 
 https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-ecrite-tache-1-sujet-4-octobre-2021/
 
