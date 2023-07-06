@@ -8,9 +8,9 @@ https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-ecrite-tache-2-s
 ---
 Bonjour Monsieur,
 
-Je vous contacte à propos de notre recherche pour un local pour notre fête de fin d'année. Après d'avoir soigneusement examiné nos critères et visité plusieurs endroits potentiels, je crois que j'ai trouvé un qui est idéal pour nous. Je voudrais vous en expliquer en plus de détails.
+Je vous contacte à propos de notre recherche d'un local pour notre fête de fin d'année. Après avoir soigneusement examiné nos critères et visité plusieurs endroits potentiels, je crois que j'en ai trouvé un qui est idéal pour nous. Je voudrais vous l'expliquer plus en détail.
 
-Le lieu dont je vous ai parlé est une école primaire privée qui s'appelle Les Étoiles, qui est à environ cinq cents mètres de notre école. Elle possède une scène assez grande, suffisant pour le concert de nos étudiants. De plus, à côté de la scène, il y a un espace commun où nous pourrons y mettre de la nourriture et des boissons et organiser une petite fête après le concert. Finalement, l'emplacement n'est pas très loin de notre école, alors ça serait facile pour les étudiants et leurs parents de le trouver.
+Le lieu que j'ai mentionné est une école primaire privée qui s'appelle Les Étoiles ; elle est à environ cinq cents mètres de notre école. Elle possède une scène assez grande pour le concert de nos étudiants. De plus, à côté de la scène, il y a un espace commun où nous pourrons mettre de la nourriture et des boissons, et organiser une petite fête après le concert. Finalement, l'emplacement n'est pas très loin de notre école ; il sera donc facile à trouver pour les étudiants et leurs parents.
 
-S'il vous plaît, faites-moi savoir ce que vous en pensez.
+Veuillez me faire savoir ce que vous en pensez.
 Cordialement,
