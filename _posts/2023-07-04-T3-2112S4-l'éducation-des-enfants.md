@@ -7,10 +7,8 @@ https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-ecrite-tache-3-s
 
 ---
 
-Comment grandir des enfants est un sujet complexe où il semble qu'il y ait toujours des problèmes peu importe ce que les parents font. S'ils sont trop stricts et autoritatives, leurs enfants peuvent ressentir frustrés de ne pas avoir de liberté. En revanche, s'ils sont laissez-faire, leurs enfants peuvent développer une attitude de ne pas respecter des règles d'une communauté.
+La manière d'élever un enfant est un sujet complexe où il n'y a pas de solution correcte. Si les parents sont trop stricts et autoritaires, leurs enfants peuvent ressentir frustrés par le manque de liberté. En revanche, s'ils sont trop laissez-faire, leurs enfants peuvent développer une attitude de ne pas respecter des règles d'une communauté.
 
-En tant que quelqu'un qui n'a pas encore d'enfant, je ne peux qu'imaginer le challenge auquel les parents font face. Il faut trouver un équilibre très délicat enfin de laisser les enfants grandir avec un sens de soi, un sens de liberté et en même temps de respecter les autres. 
+À mon avis, il existe un équilibre délicat qui permet aux enfants de grandir avec un sens de soi et en même temps de respecter les autres. Bien évidemment, c'est plus facile à dire qu'à faire. Mais s'il faut choisir un de ces deux points de vue, je dois dire que je valorise la liberté un peu plus que les règles. À mon avis, c'est le droit le plus important de chacun d'entre nous; il est donc important que les enfants en soient conscientes dès le plus jeune âge.
 
-Enfin, si je dois choisir une de ses deux écoles de pensée, je pense que je vais choisir le système plus laissez-faire, qui valorise la liberté des enfants, parce qu'à mon avis, c'est le droit le plus important de chacun d'entre nous. En disant cela, je reconnais quand même que cette opinion vient peut-être de mon enfance, avec mes parents qui étaient très autoritatives.
-
-Pour conclure, d'élever un enfant est vraiment un art en soi, l'un si important parce qu'il peut influencer la façon d'un être humain va grandir. Je ne pense pas qu'il existe une méthode parfaite non plus. Ce qui est important pour les parents et de réfléchir sur leurs actions en peu plus, et de traiter cette occupation comme un sujet qu'ils doivent apprendre tous les jours.
+En fin de compte, ce qui est important pour les parents et de réfléchir fréquemment sur leurs actions, et de traiter cette occupation comme un sujet qu'ils doivent apprendre tous les jours.
