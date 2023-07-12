@@ -9,9 +9,9 @@ Le sujet : Vous avez été invité(e) à une fête familiale. Vous envoyez un me
 
 Bonjour les amis,
 
-Je viens de rentrer chez moi du Canada après une semaine incroyable en famille. Comme vous le savez, ça fait très longtemps que je n'ai pas vu ma famille, alors cette occasion me faisait vraiment du bien. Je vais vous tout raconter.
+Je viens de rentrer chez moi du Canada après une semaine incroyable en famille. Comme vous le savez, ça fait très longtemps que je n'ai pas vu ma famille, alors cette occasion me faisait vraiment du bien. Je vais tout vous raconter.
 
-Pour les premiers deux jours que j'y étais, on ne faisait pas grand-chose parce que je me sentais un peu fatigué à cause du long trajet. Heureusement, sur le troisième jour, je me sentais mieux et on est allés à Toronto pour une journée entière. La fête familiale a été tenue le lendemain et on a invité plusieurs personnes : ma cousine et son petit ami, mon oncle et ma tante, et même les voisins de mes parents. On a passé un très bon moment à manger des plats traditionnels que ma mère avait préparé. Bien sûr, la nourriture était fantastique, mais ce qui m'a donné la pêche le plus est simplement de passer du temps avec ma famille et mes proches après si longtemps.
+Pour les premiers deux jours que j'y étais, on ne faisait pas grand-chose parce que je me sentais un peu fatigué à cause du long trajet. Heureusement, le troisième jour, je me sentais mieux et on est allés à Toronto pour une journée entière. La fête familiale a été tenue le lendemain et on a invité plusieurs personnes : ma cousine et son petit ami, mon oncle et ma tante, et même les voisins de mes parents. On a passé un très bon moment à manger des plats traditionnels que ma mère avait préparés. Bien sûr, la nourriture était fantastique, mais ce qui m'a donné le plus la pêche est simplement de passer du temps avec ma famille et mes proches après si longtemps.
 
 En fait, ça me donne envie de vous rencontrer après avoir dit tout cela ! On devrait se voir ce week-end !
 
