@@ -3,6 +3,8 @@ published: false
 ---
 https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-ecrite-tache-2-sujet-05-decembre-2021/
 
+Le sujet : Vous avez été invité(e) à une fête familiale. Vous envoyez un message à vos ami pour raconter cette fête. Vous expliquez ce que vous avez le plus aimé.
+
 ---
 
 Bonjour les amis,
