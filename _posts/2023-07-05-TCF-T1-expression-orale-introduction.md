@@ -27,6 +27,4 @@ Je suis aussi passioné par la programmation. En fait, je suis un peu en train d
 
 Comme je l'ai dit, j'habite à Hanoï, la capitale du Vietnam. C'est une assez grande ville avec beaucoup de points culturels intéressants. Le week-end, j'aime bien aller au central-ville pour profiter de l'atmosphère animée. De plus, il y a de nombreux restaurants et cafés sympas près du lac, que j'adore.
 
-Ce que je considère la plus grande qualité de ma personnalité est la capacité à apprendre en autodidacte. En fait, j'ai passé beaucoup de temps à apprendre la musique, la programmation et le français par moi-même.
-
 Mon objectif principal actuellement est de améliorer mon français, ainsi que mon anglais, pour que je puisse aller au Canada et retrouver mon frère après si longtemps.
