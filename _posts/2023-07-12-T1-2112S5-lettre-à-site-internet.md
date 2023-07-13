@@ -3,6 +3,8 @@ published: false
 ---
 https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-ecrite-tache-1-sujet-05-decembre-2021/
 
+Le sujet : Vous avez lu une annonce sur un site internet qui propose l' aide aux personnes qui souhaitent apprendre le français et les aider à trouver des personnes avec lesquelles elles peuvent pratiquer le français et qui leur permettront d'améliorer leur niveau. Envoyez un email pour répondre à cette annonce tout en vous présentant et en expliquant pourquoi vouloir pratiquer cette langue.
+
 ---
 
 Bonjour,
