@@ -9,10 +9,10 @@ Le sujet : Vous avez été invité(e) à une fête familiale. Vous envoyez un me
 
 Bonjour les amis,
 
-Je viens de rentrer du Canada après avoir passé une semaine incroyable en famille. Ça fait longtemps que je n'ai pas vu ma famille, alors cette occasion me faisait vraiment du bien.
+Je viens de rentrer du Canada après avoir passé une semaine incroyable en famille. Ça faisait longtemps que je n'avais pas vu ma famille, alors cette occasion m'a fait vraiment du bien.
 
-Je n'ai pas fait grand-chose les premiers deux jours, car j'étais un peu fatigué à cause du décalage horaire. Heureusement, le troisième jour, je me sentais mieux, juste à temps pour la fête qui aurait lieu le lendemain. Pour cela, on avait invité plusieurs personnes : ma cousine et son petit ami, mon oncle et ma tante, et même les voisins de mes parents. On a passé un très bon moment à manger des plats traditionnels que ma mère avait préparés. Bien sûr, la nourriture était excellente, mais ce qui m'a donné le plus la pêche est simplement de passer du temps entre famille après si longtemps.
+Je n'ai pas fait grand-chose les deux premiers jours, car j'étais un peu fatigué à cause du décalage horaire. Heureusement, le troisième jour, je me sentais mieux, juste à temps pour la fête qui aurait lieu le lendemain. On avait invité plusieurs personnes : ma cousine et son petit ami, mon oncle et ma tante, et même les voisins de mes parents. On a passé un très bon moment à manger des plats traditionnels que ma mère avait préparés. Bien sûr, la nourriture était excellente, mais ce qui m'a donné le plus la pêche est simplement de passer du temps en famille après si longtemps.
 
-En fait, ça me donne envie de vous rencontrer après avoir dit tout cela ! On devrait se voir ce week-end !
+En fait, ça me donne envie de vous voir après avoir dit tout cela ! On devrait faire quelque chose ensemble ce week-end !
 
 Bises,
