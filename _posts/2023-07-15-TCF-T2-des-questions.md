@@ -1,6 +1,21 @@
 ---
 published: false
 ---
+● Qui
+● Que
+● Quoi
+● Où
+● Quand
+● Pourquoi
+● Comment
+● Combien
+● Quel/quels/quelle/quelles
+● Lequel/laquelle/lesquels/lesquelles
+● À qui
+● À quoi
+
+---
+
 https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-sujet-01-decembre-2021/
 
 pouvez-vous préciser l'heure et la destination pour cette randonné
