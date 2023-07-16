@@ -61,6 +61,7 @@ pour le dîner, tu as préparé qqc ?
 ---
 https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-sujet-04-decembre-2021/
 
+- comment ça va
 - tu as passé un bon moment ?
 - quel prix as gagné tu ?
 - c'est génial, je n'ai jamais essayé. comment est-ce que tu t'es inscrit à ce programme
@@ -74,4 +75,13 @@ https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-su
 ---
 https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-sujet-05-decembre-2021/
 
-- 
+- comment allez-vous ?
+- j'ai vu cet annoce sur un magazine me je ne comprends pas vraiment. quel type de stage organiseras-tu ?
+- est-ce qu'il faut des expériences pour s'inscrire ?
+- puis-je aller avec mes amis, mes proches ?
+- j'ai un petit frère. acceptez vous les enfants moins de 10 ans ?
+
+- ce stage se déroulera où ? 
+- à quelle-heure est-il ?
+- est-ce que je peux m'inscrire sur internet où seulement sur place ?
+- combien d'enseignants seraient là ? j'ai peur que s'il y a trop de personnes, il n'y a pas assez de professeurs pour enseigner ?
