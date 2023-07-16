@@ -57,3 +57,21 @@ as-tu essayé le vélib ?
 qu'en penses-tu sur les transports en commun à paris ?
 quand est-ce que tu vas revenir au vietnam ?
 pour le dîner, tu as préparé qqc ?
+
+---
+https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-sujet-04-decembre-2021/
+
+- tu as passé un bon moment ?
+- quel prix as gagné tu ?
+- c'est génial, je n'ai jamais essayé. comment est-ce que tu t'es inscrit à ce programme
+- pourquoi tu t'es inscrit ? 
+- comment sont les questions on t'as posé ? Elles sont difficiles ?
+- as-tu un plan de t'inscrire à un autre programme à l'avenir ?
+- est-ce qu'il y a des programmes où on peut aller ensemble ? Çe serait génial ?
+- alors, recherchons sur Internet et voir si on peut trouver qqc, d'accord ?
+- qu'en penses-tu aller au restaurant et rechercher des émissions là bas ?
+
+---
+https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-sujet-05-decembre-2021/
+
+- 
