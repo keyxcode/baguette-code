@@ -12,4 +12,4 @@ J'ai eu ma première expérience avec la colocation il y cinq ans quand je suis 
 
 Par contre, au fils du temps, on s'est entendu de mieux en mieux et on s'est entraidé dans beaucoup de cas. En fait, après avoir fini l'université, Tony et moi restent bon amis et on se voit toujours très souvent.
 
-Comme je l'ai dit, vivre avec d'autres personnes est bien sûr toujours un challenge. Néanmoins, je pense que c'est une compétence essentielle, et ça peut nous apporter des amis pour la vie. 
+Comme je l'ai dit, vivre avec d'autres personnes est bien sûr toujours un challenge. Néanmoins, je pense que c'est une compétence essentielle, et ça peut nous apporter des amis pour la vie.
