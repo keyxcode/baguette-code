@@ -13,4 +13,4 @@ De nos jours, l'ubranisation est un phénomène courant dans le monde entier. Po
 
 Cepandant, il faut équilibrer des espaces vertes et des batîments dans une ville. Dans un cadre plus large, il faut également garder certaines forêts essentielles et certains parcs nationaux pour que l'on ne détruite pas l'équilibre écologique en gros. 
 
-En fin de compte, je dirais que dans notre société actuelle, le grossissement des villes est nécessaire. Cependant, il faut développer des villes d'une façon réponsable.
+En fin de compte, je dirais que dans notre société actuelle, le grossissement des villes est nécessaire. Cependant, il faut développer des villes d'une façon réponsable et autant écologique que possible.
