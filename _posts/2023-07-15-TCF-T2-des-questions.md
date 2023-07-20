@@ -98,3 +98,27 @@ https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-su
 - Y-a-t-il d'autres informations dont j'ai besoin de connaitre ?
 
 ---
+https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-sujet-09-decembre-2021/
+
+- Tu as enfin ouvri... félicitations 
+- Comment tu te sens maintenant ?
+- J'avoue que c'est un rêve pour moi d'ouvrir mon propre aussi. As-tu des conseils pour moi en général ?
+- J'ai quelques questions précises si ne dérange pas. Alors, quels produits vends-tu ?
+- Quels sont des jours d'ouvreture ?
+- Quel est le public cible pour ton entreprise ?
+- Combien coûte le loyer ? 
+- Penses-tu que c'était une bonne offre ?
+
+---
+https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-sujet-08-decembre-2021/
+
+- Je vois que ces jours-ci tu participe ... à ... Est-il un nouveau loisir pour toi ?
+- J'avoue ... j'espère ça ne te dérange pas ... je pensais seulement les personnes plus agées font cela. Y-a-t-il bcp des jeunes qui là-bas ?
+- Quel type de actiitiés proposent-elle, la mairie ?
+- Quel est ton activité préféré 
+- Faut-il payer ou est-ce qu'elles sont gratuites, les activitiés ?
+- Quel est prix ? Faut-il payer un abonnement ou est-ce un payment unique.
+
+---
+https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-sujet-07-decembre-2021/
+
