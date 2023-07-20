@@ -85,3 +85,16 @@ https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-su
 - à quelle-heure est-il ?
 - est-ce que je peux m'inscrire sur internet où seulement sur place ?
 - combien d'enseignants seraient là ? j'ai peur que s'il y a trop de personnes, il n'y a pas assez de professeurs pour enseigner ?
+
+---
+https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-sujet-10-decembre-2021/
+
+- Quels types de déguisements offrez-vous ?
+- Quel type de déguisement est le plus populaire ? Des animaux, des personnage célèbres, des monstres ?
+- Quelle est les conditions de location ?
+- Combien de temps puis-je louer des un déguisements ?
+- Faut-il les rendre à exactement cette heure-là ? Par exemple, si j'oublie mais je vous les rendrai le lendemain ? Est-ce qu'il y aura des amendes ?
+- En moyen, combien coûte un déguisement ?
+- Y-a-t-il d'autres informations dont j'ai besoin de connaitre ?
+
+---
