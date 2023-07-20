@@ -125,5 +125,10 @@ https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-su
 - Ahhh c'est un rêve pour moi pour toujours. Est-ce que tu as passé un bon moment ?
 - J'imagine... le Canada te manque déjà ?
 - Quelles-villes visitent-tu ? Je sais qu'il y a bcp de villes célèbres au Ca
+- Tu as une ville préférée ?
+- Je suppose que tu as eu pas mal d'occassions pour pratiquer ton français au Quebec, n'est-ce pas ?
 - Alors, quels sont tes lieux préférés pendant le voyage ?
-- 
+- En général, dirais-tu que c'était un voyage couteaux ou pas vraiment ?
+- As-tu des conseils pour économiser ?
+
+---
