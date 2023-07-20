@@ -122,3 +122,8 @@ https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-su
 ---
 https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-sujet-07-decembre-2021/
 
+- Ahhh c'est un rêve pour moi pour toujours. Est-ce que tu as passé un bon moment ?
+- J'imagine... le Canada te manque déjà ?
+- Quelles-villes visitent-tu ? Je sais qu'il y a bcp de villes célèbres au Ca
+- Alors, quels sont tes lieux préférés pendant le voyage ?
+- 
