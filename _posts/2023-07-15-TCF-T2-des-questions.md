@@ -132,3 +132,13 @@ https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-su
 - As-tu des conseils pour économiser ?
 
 ---
+https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-sujet-06-decembre-2021/
+
+- Bonjour comment ça va
+- Mr Martin m'a dit que vous êtes très bon avec des enfants. Alors, avez-vous des enfants vous même?
+- Quel est votre expérience quand il s'agit ...
+- Quelle est l'expérience la plus difficile pour vous quand vous avez travaillé avec des enfants. Qu'est-ce que tu as fait dans cette occassion ?
+- Quel est votre dispnibilité actuelle ?
+- Comment facturez-vous pour votre service ? Par jour? Par heurre ou quoi ?
+- Combien coute ?
+- Très bien. Alor je vous contacterais bientôt la semaine prochaine.
