@@ -142,3 +142,25 @@ https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-su
 - Comment facturez-vous pour votre service ? Par jour? Par heurre ou quoi ?
 - Combien coute ?
 - Très bien. Alor je vous contacterais bientôt la semaine prochaine.
+
+---
+https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-sujet-01-octobre-2021/
+
+- C'est une opportunité incoryable, merci bcp. Alors quel est le sujet principal de cette formation ?
+- Faut-il que je paye pour les billets d'avion
+- Où habiterai-je au canada ?
+- Est-ce que le lodgement est privé ou partagé ?
+- Quelle est la langue principale que je vais utiliser ?
+- Combien de personns vont y aller avec moi ?
+- Le jour de départ est juillet 15. Où allons-nous nous rassembler ce jour-là ? à l'entreprise, directement à l'aéroport ?
+
+---
+https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-sujet-02-octobre-2021/
+
+- bj paul, comment ça va
+- alors, écoutez, je suis nouveau dans le quartier, viens de démenager ilya 3 jours seulemnet. mais demain, mes parents vont me rendre une visite, alors je suis en train de chercher un restaurant. Recommendez-vous un bon resto du coin ?
+- Quelle est son specialit'e ? asiatique, europen?
+- a quelle heure est-il ouvert pour le diner ?
+- dois-je réserver en avance ?
+- Faut-il que j'essaye un certain plat ? est-ce qu'il y a des plat fameux
+
