@@ -182,3 +182,8 @@ https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-su
 ---
 https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-sujet-03-octobre-2021/
 
+- bj, cava
+- ecoute, je viens de recevoir une invitation a une ceremonie de mariage d'une amie canadienne, mais je suis tres inquiet en fait. parce que je n'ai jamais assisté à un tel evenement. est-il different des ceremonies asiatiques ?
+- d'accord. et dois-je apporter un cadeau, ou de l'argetn ?
+- faut-il que je port des vetements tres formel ou est-ce que je peux m'habille plus ou moin normal
+- 
