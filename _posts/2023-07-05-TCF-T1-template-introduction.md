@@ -41,6 +41,4 @@ Pendant mon temps libre, j'aime faire du sport. J'aime bien les sports individue
 
 Je suis aussi passioné par la programmation. En fait, je suis un peu en train de changer ma voie de carrière à la programmation parce que j'aime me challenger avec des problèmes techniques et aussi parce que ça me semble une carrière plus stable financièrement.
 
-Comme je l'ai dit, j'habite à Hanoï, la capitale du Vietnam. C'est une assez grande ville avec beaucoup de points culturels intéressants. Le week-end, j'aime bien aller au central-ville pour profiter de l'atmosphère animée. De plus, il y a de nombreux restaurants et cafés sympas près du lac, que j'adore.
-
 Mon objectif principal actuellement est de améliorer mon français, ainsi que mon anglais, pour que je puisse aller au Canada et retrouver mon frère après si longtemps.
