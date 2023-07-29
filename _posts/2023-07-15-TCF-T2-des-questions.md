@@ -164,3 +164,21 @@ https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-su
 - dois-je réserver en avance ?
 - Faut-il que j'essaye un certain plat ? est-ce qu'il y a des plat fameux
 
+---
+https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-sujet-03-octobre-2021/
+
+- bj, ca va
+- alors, tu vas partir en vacances bientot ?
+- alors, je crois que tu as besoin qqn qui peut s'occupe de ton chien ?
+- je suis ravi de faire ca parce que jaime bien des animaux, mais alors dis-moi, qu'est-ce qu'il mange
+- faut-il que je lui nourri à certaines heures specifiques ?
+- je ne sais pas grandchose aux chiens. dorment-ils beaucoup ? je sais que les chats dormet bcp
+- faut-il que je lui force à dormir à certaine heures, comme les bebes ou pas ?
+- je sais que le promenade est ters important pour eux. combien de temps dois-je le promener par jour ?
+- on peut le faire dans n'importe quel parc ou prefere-t-il certain parcs ?
+- rappelles-moi, tu retoruneras à quelle date ?
+- bon voyage ?
+
+---
+https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-sujet-03-octobre-2021/
+
