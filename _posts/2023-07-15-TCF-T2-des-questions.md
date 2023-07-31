@@ -189,3 +189,8 @@ https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-su
 - faut-il que je port des vetements tres formel ou est-ce que je peux m'habille plus ou moin normal
 - est-ce que tu penses que je devrais preparer une ou deux chansons pour l'evenement ou est-ce que c'est un faux pas ?
 - je peux ammener une personnes. souhaite-tu y aller avec moi?
+
+---
+https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-sujet-05-octobre-2021/
+
+- 
