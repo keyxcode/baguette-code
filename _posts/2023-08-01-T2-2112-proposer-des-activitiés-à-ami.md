@@ -3,6 +3,8 @@ published: false
 ---
 https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-ecrite-tache-2-sujet-07-decembre-2021/
 
+Le sujet : Vous avez reçu un message d'un(e) ami(e) qui a décidé de passer, en janvier, deux semaines de vacances dans votre pays avec son ami(e). Vous lui écrivez un email pour lui des activités à faire dès son arrivée (sites touristiques, plats traditionnels à déguster etc.)
+
 ---
 
 Salut Julian,
