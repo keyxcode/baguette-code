@@ -7,3 +7,12 @@ Le sujet: Rédigez un message pour répondre à votre ami(e) qui vous invite à 
 
 ---
 
+Bonjour Marc,
+
+Merci de m'avoir invité à vous rejoindre. Oui, je serai disponible le week-end prochain et j'aimerais y aller avec ta famille !
+
+En ce qui concerne le lieu, est-ce que tu as déjà quelques idées ? Sinon, je viens de lire un article sur un nouveau parc qui me semble très passionant. Il y a une colline, un grand lac et plein d'espaces verts là-bas pour que tes enfants puissent faire du sport. Quant aux alimentations, je peux y apporter des baguttes vietnamiennes que je pense vous allez adorer.
+
+Fais-moi savoir ce que tu en penses. À bientôt !
+
+Bises
