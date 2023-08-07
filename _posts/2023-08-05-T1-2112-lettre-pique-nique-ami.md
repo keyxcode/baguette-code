@@ -15,4 +15,4 @@ Merci de m'avoir invité à vous rejoindre. Oui, je serai disponible le week-end
 
 Fais-moi savoir ce que tu en penses. À bientôt !
 
-Bises
+Bisous,
