@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Il y a deux jours, j'ai reçu les résultats de l'épreuve de français que j'ai passée le mois prochain. Je suis heureux de dire qu'il a répondu parfaitement à mes attentes et était même un petit peu meilleur : j'ai obtenu le niveau B2 pour toutes les compétences, sauf pour la compréhension écrite où j'ai obtenu le niveau C1.
 
