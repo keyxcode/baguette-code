@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-Il y a deux jours, j'ai reçu les résultats de l'épreuve de français que j'ai passée le mois prochain. Je suis heureux de dire qu'il a répondu parfaitement à mes attentes et était même un petit peu meilleur : j'ai obtenu le niveau B2 pour toutes les compétences, sauf pour la compréhension écrite où j'ai obtenu le niveau C1.
+Il y a deux jours, j'ai reçu les résultats de l'épreuve de français que j'ai passée le mois dernier. Je suis heureux de dire qu'il a répondu parfaitement à mes attentes et était même un petit peu meilleur : j'ai obtenu le niveau B2 pour toutes les compétences, sauf pour la compréhension écrite où j'ai obtenu le niveau C1.
 
 Pour être honnête, j'ai eu de la chance, car je sais très bien que pour la compréhension orale, j'ai choisi environ 10 réponses au hasard sur 40 au total. En effet, ma note pour cette partie et la plus basse par rapport aux autres. D'une certaine manière, cela reflète bien la vérité parce que quand je pratique à la maison, je n'ai pas souvent de souci avec cette partie. Mais peu importe, je crois que la chance joue toujours un rôle important dans toutes les choses !
 
