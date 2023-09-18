@@ -7,7 +7,7 @@ L'autre jour j'ai découvert la chanson « Palladium » par un duo qui s'appelle
 
 Au niveau de musique, ce que j'aime le plus est probablement l'interaction entre les deux voix principales, celle qui n'est pas souvent entendue dans la musique pop moderne. Dans la musique moderne, souvent il n'y a qu'une voix principale, et peut-être les choeurs (je veux dire « backing vocals ») qui chantent en mouvement parallèle. En revanche, le format duo qu'utilise Brigitte leur permet de créer des lignes musicales plus sophistiquées, formellement appelées le contrepoint. Un autre exemple de ça dans la musique pop que j'aime est le refrain de « Soleil » par Françoise Hardy ; on peut l'entendre clairement dans cette version où elle chantait avec un autre chanteur https://www.youtube.com/watch?v=J3RqrqdMVSk
 
-Maintenant, au niveau de vocabulaire utilisé, il y des mots dans les paroles que je ne comprends pas complètement. Je crois que je comprends l'idée principale : il y a une personne avec un coeur brisé, et son ami(e) essaie de la consoler.
+Maintenant, au niveau de vocabulaire utilisé, il y a des mots dans les paroles que je ne comprends pas complètement. Je crois que je comprends l'idée principale : il y a une personne avec un coeur brisé, et son ami(e) essaie de la consoler.
 
 Viens je t’emmène au Palladium
 On boira du rock’n’roll
@@ -17,4 +17,9 @@ Je pense que « le Palladium » est probablement le nom d'une boîte ? Est-ce qu
 
 D'ailleurs, elles chantent aussi :
 Viens, on pleure, on pissera moins
-Est-ce que « on pissera moins » se traduit par « we'll be less pissed off » ou quoi ? Je suis perplex !
+Est-ce que « on pissera moins » se traduit par « we'll be less pissed off » ou quoi ? Et dernièrement :
+Si c'est la mer à boire
+Le grand fiasco
+Le chaos et son cafard
+Je t'en ferai des calembours
+Est-ce qu'elles veulent vraiment dire les cafards comme les insectes. Mais ça semble être un choix inhabituelle pour mettre dans une chanson ! Je suis très curieux !
