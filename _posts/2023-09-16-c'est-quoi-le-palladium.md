@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-Le palladium ? Les hits à la gomme ? On pissera ?
+Le palladium ? Les hits à la gomme ? On pissera moins ?
 
 L'autre jour j'ai découvert la chanson « Palladium » par un duo qui s'appelle Brigitte. Je trouve que c'est un très beau morceau qui rappelle la musique des années soixante-dix https://youtu.be/MY0u5EjfXQ0?si=xOyKzOP-2GCH95DF
 
@@ -15,5 +15,6 @@ Sur des vieux hits à la gomme
 
 Je pense que « le Palladium » est probablement le nom d'une boîte ? Est-ce que c'est un endroit célèbre où juste un nom qu'elles ont inventé au hasard ? Ensuite, utilise-t-on vraiment le verbe « boire » pour dire écouter de la musique dans le langage courant, où est-ce que son utilisation ici est unique  ? Et puis, c'est quoi exactement les « hits à la gomme » ?
 
-Voice quelques d'autre points que je ne comprends pas : 
-Pissera moins
+D'ailleurs, elles chantent aussi :
+Viens, on pleure, on pissera moins
+Est-ce que « on pissera moins » se traduit par « we'll be less pissed off » ou quoi ? Je suis perplex !
