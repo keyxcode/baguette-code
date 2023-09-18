@@ -13,7 +13,7 @@ Viens je t’emmène au Palladium
 On boira du rock’n’roll
 Sur des vieux hits à la gomme
 
-Je pense que « le Palladium » est probablement le nom d'une boîte ? Est-ce que c'est un endroit célèbre où juste un nom qu'elles ont inventé au hasard ? Ensuite, utilise-t-on vraiment le verbe « boire » pour dire écouter de la musique dans le langage courant, où est-ce que son utilisation ici est unique  ? Dernièrement, c'est quoi exactement les « hits à la gomme » ?
+Je pense que « le Palladium » est probablement le nom d'une boîte ? Est-ce que c'est un endroit célèbre où juste un nom qu'elles ont inventé au hasard ? Ensuite, utilise-t-on vraiment le verbe « boire » pour dire écouter de la musique dans le langage courant, où est-ce que son utilisation ici est unique  ? Et puis, c'est quoi exactement les « hits à la gomme » ?
 
 Voice quelques d'autre points que je ne comprends pas : 
 Pissera moins
