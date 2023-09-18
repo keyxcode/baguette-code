@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-Le palladium ? Les hits à la gomme ? On pissera moins ?
+Le Palladium ? Les hits à la gomme ? On pissera moins ?
 
 L'autre jour j'ai découvert la chanson « Palladium » par un duo qui s'appelle Brigitte. Je trouve que c'est un très beau morceau qui rappelle la musique des années soixante-dix https://youtu.be/MY0u5EjfXQ0?si=xOyKzOP-2GCH95DF
 
