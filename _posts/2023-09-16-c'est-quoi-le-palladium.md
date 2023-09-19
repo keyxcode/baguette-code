@@ -26,4 +26,4 @@ Le grand fiasco
 Le chaos et son cafard
 Je t'en ferai des calembours »
 
-Est-ce qu'elles veulent vraiment dire les cafards comme les insectes. Mais ça semble être un choix inhabituelle pour une chanson ! Je suis très curieux !
+Est-ce qu'elles veulent vraiment dire les cafards comme les insectes. Mais ça semble être un choix inhabituel pour une chanson ! Je suis très curieux !
