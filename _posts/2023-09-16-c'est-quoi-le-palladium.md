@@ -9,17 +9,21 @@ Au niveau de musique, ce que j'aime le plus est probablement l'interaction entre
 
 Maintenant, au niveau du vocabulaire utilisé, il y a des mots dans les paroles que je ne comprends pas. Je crois que je comprends l'idée principale : il y a une personne avec un coeur brisé, et son ami(e) essaie de la consoler.
 
-Viens je t’emmène au Palladium
+« Viens je t’emmène au Palladium
 On boira du rock’n’roll
-Sur des vieux hits à la gomme
+Sur des vieux hits à la gomme »
 
 Je pense que « le Palladium » est probablement le nom d'une boîte ? Est-ce que c'est un endroit célèbre ou juste un nom qu'elles ont choisi au hasard ? Et puis, c'est quoi exactement les « hits à la gomme » ?
 
 D'ailleurs, elles chantent aussi :
-Viens, on pleure, on pissera moins
+
+« Viens, on pleure, on pissera moins »
+
 Est-ce que « on pissera moins » se traduit par « we'll be less pissed off » ou quelque chose du genre ? Et pour finir :
-Si c'est la mer à boire
+
+« Si c'est la mer à boire
 Le grand fiasco
 Le chaos et son cafard
-Je t'en ferai des calembours
+Je t'en ferai des calembours »
+
 Est-ce qu'elles veulent vraiment dire les cafards comme les insectes. Mais ça semble être un choix inhabituelle pour une chanson ! Je suis très curieux !
