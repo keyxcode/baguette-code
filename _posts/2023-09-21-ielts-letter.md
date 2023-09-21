@@ -14,10 +14,6 @@ I am writing to inform you
 I am writing to express my sincere thanks
 
 - Explanation (100 words - 1 paragraph) 
-I appreciate that
-I would also like to thank you on behalf of
-I am not too concerned about
-
 As you are aware
 I called to notify you of
 On on occasion a
@@ -26,6 +22,17 @@ I advise that
 With regards to the question of
 I am happy to
 
+I appreciate that
+I would also like to thank you on behalf of
+I am not too concerned about
+
+I was absolutely delighted to hear that
+Thank you for contacting me in regards
+We were particularly impressed that
+
+I am sorry to trouble you but
+I am deeply sorry for the inconvenience caused
+Unfortunately, this Saturday I have already comitted to
 
 
 - Request (1 or 2 sentences)
