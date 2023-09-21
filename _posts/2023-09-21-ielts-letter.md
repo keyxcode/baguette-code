@@ -9,14 +9,24 @@ Dear Mr/ Mrs/Miss/ Dr Surname - formal/ semi-formal
 Dear First Name - informal
 
 - Intro (1 sentence)
-I am writing to you in regards to ...
-I am writing to inform you ...
-I am writing to express my sincere thanks ...
+I am writing to you in regards to
+I am writing to inform you
+I am writing to express my sincere thanks
 
 - Explanation (100 words - 1 paragraph) 
 I appreciate that
 I would also like to thank you on behalf of
 I am not too concerned about
+
+As you are aware
+I called to notify you of
+On on occasion a
+I am really pleased to let you know that
+I advise that
+With regards to the question of
+I am happy to
+
+
 
 - Request (1 or 2 sentences)
 I would appreciate it if you could
