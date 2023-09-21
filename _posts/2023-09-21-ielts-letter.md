@@ -59,10 +59,10 @@ You had a very good experience in a local restaurant with your family. Write a l
 
 Dear Sir/Madam,
 
-I am writing to inform you about the excellent service that I have received the Pizza Italiana restaurant recently.
+I am writing to inform you about the excellent service that I recently received at the Pizza Italiana restaurant.
 
-As you might already be aware, this is a new restaurant that opened last month, and is as far as I know the only Italians-owned in our town. I am delighted to let you everything the restaurant had to offer lived up to my expectations. First and foremost, the food was exquisite. Having been to Italy several times before, I knew what authentic Italian cuisine was supposed to taste like, and it is certainly not a standard that is easy to adhere to. Pizza Italiana did not dissapoint in this regards, serving only the most freshly-baked pizza and homemade style pasta. Furthermore, the ambiance when I was there was very pleasant with classical Italian music being played, which makes it an ideal spot for romantic date nights.
+As you may know, this is a new restaurant that opened last month and as far as I know, it is the only Italians-owned in our town. I am happy to let you know that the quality of the food is excellent. Having been to Italy several times before, I knew what authentic Italian cuisine is supposed to taste like ; it is certainly not an easy standard to adhere to. Pizza Italiana did not disappoint in this regard, serving only the most freshly-baked pizzas and homemade pasta. Additionally, the ambiance when I was there was pleasant with classical Italian music, making it an ideal spot for romantic evenings.
 
-I would appreciate it if you could publish my review of the restaurant so that more people will know about it, and have a chance to try Italian cuisine right in the heart of Hanoi.
+I would appreciate it if you could publish my review of the restaurant so that more people know and have a chance to try Italian cuisine right in the heart of Hanoi.
 
 Kind regards
