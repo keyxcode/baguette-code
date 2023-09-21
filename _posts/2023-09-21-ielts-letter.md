@@ -50,9 +50,19 @@ I look forward to your rapid response
 - Sign off
 Yours sincerely,
 With thanks,
-Kinda regards,
+Kind regards,
 Your friend,
 Cheers,
 
 //==========================================
-You are a student at a university in Brighton and are living in private accommodation and have not had hot water or heating for some time. The landlord’s workmen have tried to fix the problem but without success.
+You had a very good experience in a local restaurant with your family. Write a letter to a newspaper to tell them about it, describe what you liked about it, and why you think the restaurant is worth visiting.
+
+Dear Sir/Madam,
+
+I am writing to inform you about the excellent service that I have received the Pizza Italiana restaurant recently.
+
+As you might already be aware, this is a new restaurant that opened last month, and is as far as I know the only Italians-owned in our town. I am delighted to let you everything the restaurant had to offer lived up to my expectations. First and foremost, the food was exquisite. Having been to Italy several times before, I knew what authentic Italian cuisine was supposed to taste like, and it is certainly not a standard that is easy to adhere to. Pizza Italiana did not dissapoint in this regards, serving only the most freshly-baked pizza and homemade style pasta. Furthermore, the ambiance when I was there was very pleasant with classical Italian music being played, which makes it an ideal spot for romantic date nights.
+
+I would appreciate it if you could publish my review of the restaurant so that more people will know about it, and have a chance to try Italian cuisine right in the heart of Hanoi.
+
+Kind regards
