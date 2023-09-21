@@ -34,7 +34,6 @@ I am sorry to trouble you but
 I am deeply sorry for the inconvenience caused
 Unfortunately, this Saturday I have already comitted to
 
-
 - Request (1 or 2 sentences)
 I would appreciate it if you could
 I hope that you will
@@ -54,3 +53,6 @@ With thanks,
 Kinda regards,
 Your friend,
 Cheers,
+
+//==========================================
+You are a student at a university in Brighton and are living in private accommodation and have not had hot water or heating for some time. The landlord’s workmen have tried to fix the problem but without success.
