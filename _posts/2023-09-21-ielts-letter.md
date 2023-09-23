@@ -9,7 +9,7 @@ Dear Mr/ Mrs/Miss/ Dr Surname - formal/ semi-formal
 Dear First Name - informal
 
 - Intro (1 sentence)
-I am writing to you in regards to
+I am writing to you in regard to
 I am writing to inform you
 I am writing to express my sincere thanks
 
@@ -55,7 +55,7 @@ Your friend,
 Cheers,
 
 //==========================================
-You had a very good experience in a local restaurant with your family. Write a letter to a newspaper to tell them about it, describe what you liked about it, and why you think the restaurant is worth visiting.
+<!-- You had a very good experience in a local restaurant with your family. Write a letter to a newspaper to tell them about it, describe what you liked about it, and why you think the restaurant is worth visiting.
 
 Dear Sir/Madam,
 
@@ -65,4 +65,22 @@ As you may know, this is a new restaurant that opened last month and as far as I
 
 I would appreciate it if you could publish my review of the restaurant so that more people know and have a chance to try Italian cuisine right in the heart of Hanoi.
 
-Kind regards
+Kind regards !-->
+
+//==========================================
+A friend wants to spend a four-week holiday in your country and has written asking for advice about the trip. Write a letter to your friend. In your letter: offer to find somewhere to stay, give advice about what to do, give information about what clothes to bring.
+
+Dear Mark,
+
+I'm writing to you in regard to your coming trip to Vietnam. It's such a wonderful news, and I'd like to offer you some pieces of advice to best prepare for it.
+
+First of all, I advise you to look for accommodations near the West Lake area. They are nearby the downtown area, where most of the activities are, yet distant enough from the city center for you to not be bothered by the constant traffic noise. Next, as you may know, it's winter here now in Hanoi. I suggest bringing warm clothes and especially a pair of ear warmers since you will likely be walking or commuting by motorbike a lot.
+
+If you are interested in exploring authentic Vietnamese cuisine, please find a list of my favorite places attached. I would love to take you to some of them.
+
+I look forward to seeing you!
+
+Your friend,
+
+
+
