@@ -68,7 +68,7 @@ I would appreciate it if you could publish my review of the restaurant so that m
 Kind regards !-->
 
 //==========================================
-A friend wants to spend a four-week holiday in your country and has written asking for advice about the trip. Write a letter to your friend. In your letter: offer to find somewhere to stay, give advice about what to do, give information about what clothes to bring.
+<!-- A friend wants to spend a four-week holiday in your country and has written asking for advice about the trip. Write a letter to your friend. In your letter: offer to find somewhere to stay, give advice about what to do, give information about what clothes to bring.
 
 Dear Mark,
 
@@ -80,6 +80,17 @@ If you are interested in exploring authentic Vietnamese cuisine, please find a l
 
 I look forward to seeing you!
 
+Your friend, !-->
+
+//==========================================
+You will move to a new city because of your work. Ask some friends who live there for help finding accommodation. Tell them where you would like to live. Tell them the type of accommodation you are looking for.
+
+Dear Alice,
+
+I am really pleased to let you know that I will be relocating  to New York by the end of November for my work. Given that you have already lived there for more than five years, I thought I would ask you for some pieces of advice on finding a suitable place to live.
+
+First of all, I live by myself so realistically I don't need anything more than a single bedroom and ideally a proper kitchen. My budget is around $2000 which as far as I know is not a lot for New York; because of that, I'm more than willing live in a shared space. My two top priorities are that the neighborhood is safe and that it is near a subway station. Anything better than that is an added bonus for me as I live quite simply and frugally.
+
+Based on the information that I have given, which area of the city would you suggest me looking into. Additionally, are there websites or online groups that I should join to find out further information? I would be really grateful if you could get back to me soon. Thank you!
+
 Your friend,
-
-
