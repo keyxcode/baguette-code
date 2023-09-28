@@ -5,7 +5,7 @@ published: false
 
 Intro
 - Paraphrase things mentioned in the prompt
-- 3 sentences
+- 3 to 4 sentences
  - State the topic and why it's important
  - Present key ideas and allow the reader to understand the direction and structure of the essay
  - Thesis statement (optional): "...in this essay, *the aim* will be discussed
