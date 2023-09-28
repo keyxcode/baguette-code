@@ -8,7 +8,7 @@ Intro
 - 3 sentences
  - State the topic and why it's important
  - Present key ideas and allow the reader to understand the direction and structure of the essay
- - Thesis statement (optional): "In this essay, *the aim* will be discussed
+ - Thesis statement (optional): "...in this essay, *the aim* will be discussed
     
 Body
 - 3 main key ideas in 3 body paragraphs
