@@ -22,9 +22,9 @@ Conclusion
 
 Grammar tips
 - Use all 4 sentence types
- - Simple
- - Compound
- - Complex
+ - Simple (She smiled)
+ - Compound (She smiled, and she laughed)
+ - Complex (She smiled because she was happy)
  - Compound complex
 - Show off vocab
 - Stick to the appropriate tense
