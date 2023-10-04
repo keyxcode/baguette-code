@@ -94,3 +94,19 @@ First of all, I live by myself, so realistically I don't need anything more than
 Based on the information that I have provided, which area of the city would you suggest I look into. Additionally, are there any websites or online groups that I should join for further information? I would be really grateful if you could get back to me soon. Thank you!
 
 Your friend,
+
+//==========================================
+You hired a car from a rental company and while you were driving on holiday, you have a small accident. You will have to write a report to the company to explain it. You need to explain the following:
+1. Where you hired it and when? 2. Describe how the accident happened? 3. What you did after the accident?
+
+Dear Sir/Madam,
+
+I am writing to inform you about a minor accident that has occured to the vehicle I rented from your company.
+
+The accident happened at around 5pm, yesterday afternoon, August the 20th. At the intersection between Main Street and Market Street, I was slowly decelerating to stop for the red light while all of a sudden the delivery person behind me decided to run the light. As he went through the tiny gap between my car and the sidewalk, his bike made contact and left a scratch on my vehicle.
+
+The damage is minor but I thought it was something I should let you know. The person who caused the damage unfortunately did not stop to check on it, but I managed to get his plate number on my dash cam. Please let me know if you need the footage or anything else from me. I am sorry for any inconvenience caused.
+
+Kind regards,
+
+//==========================================
