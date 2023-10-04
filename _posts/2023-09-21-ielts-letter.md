@@ -114,7 +114,7 @@ You asked the bank for a new chequebook two weeks ago but you haven’t received
 
 Dear Sir/Madam,
 
-I am writing to you in regard to the chequebook request I have made two weeks ago. As of today, I still have not received it and I would like to ask for an update and and an explanation for this delay.
+I am writing to you in regard to the chequebook request I have made two weeks ago. As of today, I still have not received it and I would like to ask for an update and an explanation for this delay.
 
 I have submitted all of the necessary forms on August 20th via your web portal, which said that the chequebook would be delivered in seven business days. At the beginning of last week (eight business days after my first request), I have called your customer service and received the answer that there was a server error and that I would receive it within the next five days. However, today after two weeks, I still have not had it delivered to me.
 
