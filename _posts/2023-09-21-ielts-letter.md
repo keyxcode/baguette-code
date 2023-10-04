@@ -83,7 +83,7 @@ I look forward to seeing you!
 Your friend, !-->
 
 //==========================================
-You will move to a new city because of your work. Ask some friends who live there for help finding accommodation. Tell them where you would like to live. Tell them the type of accommodation you are looking for.
+<!-- You will move to a new city because of your work. Ask some friends who live there for help finding accommodation. Tell them where you would like to live. Tell them the type of accommodation you are looking for.
 
 Dear Alice,
 
@@ -93,10 +93,10 @@ First of all, I live by myself, so realistically I don't need anything more than
 
 Based on the information that I have provided, which area of the city would you suggest I look into. Additionally, are there any websites or online groups that I should join for further information? I would be really grateful if you could get back to me soon. Thank you!
 
-Your friend,
+Your friend, !-->
 
 //==========================================
-You hired a car from a rental company and while you were driving on holiday, you have a small accident. You will have to write a report to the company to explain it. You need to explain the following:
+<!-- You hired a car from a rental company and while you were driving on holiday, you have a small accident. You will have to write a report to the company to explain it. You need to explain the following:
 1. Where you hired it and when? 2. Describe how the accident happened? 3. What you did after the accident?
 
 Dear Sir/Madam,
@@ -107,6 +107,17 @@ The accident happened at around 5pm, yesterday afternoon, August the 20th. At th
 
 The damage is minor but I thought it was something I should let you know. The person who caused the damage unfortunately did not stop to check on it, but I managed to get his plate number on my dash cam. Please let me know if you need the footage or anything else from me. I am sorry for any inconvenience caused.
 
-Kind regards,
+Kind regards, !-->
 
 //==========================================
+You asked the bank for a new chequebook two weeks ago but you haven’t received anything. Write a letter to the manager complaining about the service. Say how and when you ordered the chequebook. Tell them when you need the chequebook by and ask the manager to send it to you before this date.
+
+Dear Sir/Madam,
+
+I am writing to you in regard to the chequebook request I have made two weeks ago. As of today, I still have not received it and I would like to ask for an update and and an explanation for this delay.
+
+I have submitted all of the necessary forms on August 20th via your web portal, which said that the chequebook would be delivered in seven business days. At the beginning of last week (eight business days after my first request), I have called your customer service and received the answer that there was a server error and that I would receive it within the next five days. However, today after two weeks, I still have not had it delivered to me.
+
+I am requesting that the chequebook delivered to me as soon as possible as I need it for a very important housing payment. The deadline of the payment is approaching and I cannot afford to wait any longer.
+
+With thanks,
