@@ -32,7 +32,7 @@ Grammar tips
 ---
 <!-- Many people are working at home rather than in the workplace. Some people believe this will bring benefits to the workers and their families, but others suggest it will cause stress in the home. Discuss both sides and give your opinion
 
-In the recent years, especially after the global pandemic, there has been a growing demand from paid workers to do their job remotely. For them, this is a necessary development to assure their work-life balance. Nevertheless, other people are raising their concern about remote work's effects on mental health. In this essay, the pros and cons of these approaches will be discussed.
+In the recent years after the global pandemic, there has been a growing demand from paid workers to do their job remotely. For them, this is a necessary development to assure their work-life balance. Nevertheless, other people are raising their concern about remote work's effects on mental health. In this essay, the pros and cons of these approaches will be discussed.
 
 First of all, working from home saves people their precious time. For many, this could mean a 2-hour round trip on the daily. Instead of spending this time on the road, they could improve their life by getting a little more sleep, or spending a little more time with their friends and family.
 
@@ -47,10 +47,10 @@ There are many extinct animals’ species in the world. Some people think we sho
 
 With numerous wild species going extinct at historic rate, the question of whether we should spend more resources to save them, or still focus on our own species first has once again become a hotly debated topic. In this essay, the views of both sides will be discussed in more detail, and I will conclude with my personal opinion.
 
-The first group of people believe that out of all important global issues, human well-being should be prioritized. This school of thought is not hard to understand, as every specie must think of their own survival first before others. This is probably more relatable now that ever, during times of recession where housing prices keep rising while GDPs are dropping around the world. What does saving pandas have to do with putting food on the table?
+The first group of people argue that out of all important global issues, human well-being should be prioritized. This school of thought is not hard to understand, as every specie must think of their own survival first before others. This is probably more relatable now that ever, during times of recession where housing prices keep rising while GDPs are dropping around the world. What does saving pandas have to do with putting food on the table?
 
 On the other hand, animal activists hold the belief that animals should be treated equal as humans, and therefore, their problems should be considered as equally or more important than those of our own. They argue that our obsession with conquering nature and improving the economy is the very reason many wild species are now endangered or worse, already extinct.
 
 While I understand the sentiment of the first group, I stand with the latter. As can be seen in many man-made problems such as deforestation and poaching, it seems clear that humans have continually trampled on wild animals' rights and failed to respect their territories. With that being said, I also hope for a future of more sustainable development, where humans no longer destroys the wilderness while still improving their quality of life.
 
-In summary, while humans no doubt have their own problems that should rightly be focused on, animal lives have been directly worsened because of us. Because of this, I hold the view that we should make a greater effort to protect wildlife, especially endangered species. By doing this, we might be able to one day reconcile both sides and live more harmoniously with nature.
+In summary, while humans no doubt have their own problems that should rightly be focused on, animal lives have been directly worsened because of us. Because of this, I hold the view that we should make a greater effort to protect wildlife, especially endangered species.
