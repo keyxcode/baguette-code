@@ -127,10 +127,10 @@ Write a letter to complain about a dangerous situation when some adolescents let
 
 Dear Sir/Madam,
 
-I am writing to you in regard to an incident involving an irresponsible dog owner at your park that happened this morning, August 20th.
+I am writing to the director board of Hyde Park in regard to an incident involving an irresponsible group of dog owners at your park that happened this morning, August 20th.
 
-At around 9 AM, I was leisurely strolling in the park as usual when I heard some loud, chaotic dog barkings. Soon I realized there were two unleashed bull dogs chasing each other around the flower garden area. Given that this is an aggressive dog breed, many people in the park were disturbed by their presence. It took me another moment to locate the dog owner, who was a teenage boy. After a few people and I tried to convince him to leash the dogs, he finally complied.
+At around 9 AM, I was leisurely strolling in the park as usual when I heard some loud, chaotic dog barkings. Soon I realized there were three unleashed bull dogs chasing each other around the flower garden area. Given that this is an aggressive dog breed, many people in the park were disturbed by their uncontrolled presence. It took me another moment to locate the dog owners, who were a group of teenagers. After a few people and I tried to convince them to leash the dogs, they finally complied.
 
-As a frequent visiter of your park, I hope that you will consider putting warnings in the park that no unleased big dogs should be allowed. These types of dogs can be very dangerous to everyone, especially those who cannot defend themselves such as young kids or senior citizens.
+As a frequent visiter of your park, I hope that you will consider putting more warnings in the park that no unleased big dogs should be allowed. These types of dogs can be very dangerous to everyone, especially those who cannot defend themselves such as young kids or the elderly.
 
-Yours sincerely,
+Kind regards,
