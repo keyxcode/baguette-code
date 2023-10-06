@@ -110,7 +110,7 @@ The damage is minor but I thought it was something I should let you know. The pe
 Kind regards, !-->
 
 //==========================================
-You asked the bank for a new chequebook two weeks ago but you haven’t received anything. Write a letter to the manager complaining about the service. Say how and when you ordered the chequebook. Tell them when you need the chequebook by and ask the manager to send it to you before this date.
+<!-- You asked the bank for a new chequebook two weeks ago but you haven’t received anything. Write a letter to the manager complaining about the service. Say how and when you ordered the chequebook. Tell them when you need the chequebook by and ask the manager to send it to you before this date.
 
 Dear Sir/Madam,
 
@@ -120,4 +120,17 @@ I have submitted all of the necessary forms on August 20th via your web portal, 
 
 I am requesting that the chequebook delivered to me as soon as possible as I need it for a very important housing payment. The deadline of the payment is approaching and I cannot afford to wait any longer.
 
-With thanks,
+With thanks, !-->
+
+//==========================================
+Write a letter to complain about a dangerous situation when some adolescents let their dogs run wild in public.
+
+Dear Sir/Madam,
+
+I am writing to you in regard to an incident involving an irresponsible dog owner at your park that happened this morning, August 20th.
+
+At around 9 AM, I was leisurely strolling in the park as usual when I heard some loud, chaotic dog barkings. Soon I realized there were two unleashed bull dogs chasing each other around the flower garden area. Given that this is an aggressive dog breed, many people in the park were disturbed by their presence. It took me another moment to locate the dog owner, who was a teenage boy. After a few people and I tried to convince him to leash the dogs, he finally complied.
+
+As a frequent visiter of your park, I hope that you will consider putting warnings in the park that no unleased big dogs should be allowed. These types of dogs can be very dangerous to everyone, especially those who cannot defend themselves such as young kids or senior citizens.
+
+Yours sincerely,
