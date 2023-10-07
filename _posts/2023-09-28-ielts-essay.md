@@ -43,7 +43,7 @@ Despite all of its advantages, this style of working does have one major drawbac
 In summary, while remote work certainly saves employees time and boost their productivity, it may cause harm to their mental health. One possiple solution to this might be the hybrid working model where we work some days in the office, and soem days at home. This may combine the best of both worlds and improve both our professional and personal life. !-->
 
 ---
-There are many extinct animals’ species in the world. Some people think we should protect animals from dying out, while others believe we should spend more time on problems of human beings. Discuss both sides and give your opinion.
+<!-- There are many extinct animals’ species in the world. Some people think we should protect animals from dying out, while others believe we should spend more time on problems of human beings. Discuss both sides and give your opinion.
 
 With numerous wild species going extinct at historic rate, the question of whether we should spend more resources to save them, or still focus on our own species first has once again become a hotly debated topic. In this essay, the views of both sides will be discussed in more detail, and I will conclude with my personal opinion.
 
@@ -53,4 +53,15 @@ On the other hand, animal activists hold the belief that animals should be treat
 
 While I understand the sentiment of the first group, I stand with the latter. As can be seen in many man-made problems such as deforestation and poaching, it seems clear that humans have continually trampled on wild animals' rights and failed to respect their territories. With that being said, I also hope for a future of more sustainable development, where humans no longer destroys the wilderness while still improving their quality of life.
 
-In summary, while humans no doubt have their own problems that should rightly be focused on, animal lives have been directly worsened because of us. Because of this, I hold the view that we should make a greater effort to protect wildlife, especially endangered species.
+In summary, while humans no doubt have their own problems that should rightly be focused on, animal lives have been directly worsened because of us. Because of this, I hold the view that we should make a greater effort to protect wildlife, especially endangered species. !-->
+
+---
+Some people think art such as sculpture and music cannot improve the quality of people’s lives so the government should not spend money on them but on health and defence. What is your opinion?
+
+Throughout human history, the arts have always played an important role and they still do nowadays. Unfortunately, their importance is not always well understood, which leads to some people believing that they do not have any concrete benefits. In this essay, the positive effects of the arts on a personal level, as well as on a national level will be discussed.
+
+First of all, the belief that the arts do not have any direct utility in our everyday life is not necessarily true. While for most people, playing music or painting does not earn them money, it greatly enriches their quality of life. Indeed, many studies have shown that participating in, or simply enjoying arts and music can improve our mental health and holistic well being. These activities can also serve as an excellent medium of connecting people whether in schools, at the workplace or anywhere else in a society.
+
+Furthermore, the artistic richness of a country is often directly linked with their success in the tourism industry. This can be easily seen in touristic hot spots such as Rome, Kyoto, Athens. It is in fact the architecture, the paintings, the unique culture of these places that draw people around the world.  Of course, this contradicts the viewpoint that the arts are merely superficial and do not have any economic benefits; in contrast, they significantly strengthen a country's economy and thus deserve more funding than many believe.
+
+In summary, artistic endeavors not only improve our personal pursuit of happiness, but also have the potential of bringing in more business to any nation. Therefore, it is without a doubt a wise choice to allocate more national funding to these professions.
