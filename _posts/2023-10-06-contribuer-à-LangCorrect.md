@@ -1,11 +1,12 @@
 ---
 published: false
 ---
-Récemment, LangCorrect est officiellement devenu un projet complètement open-source. Avant, c'est seulement le côté front-end, tout ce qui est l'interface utilisateur ; maintenant, le serveur, qui dirige la logique de l'application est aussi disponible pour le public.
+Récemment, LangCorrect est officiellement devenu un projet complètement open source. Avant, seulement le nouveau front-end, tout ce qui est l'interface utilisateur, était ouvert au public ; maintenant, le côté serveur, qui dirige la logique de l'application entière, est aussi disponible.
 
-D'un côté, les logiciels open-source sont fantastique parce qu'ils peuvent utiliser l'aide de tout le monde. Dans le monde de logiciels, ça veut généralement dire qu'on peut trouver des bugs plus vite et les corriger plus rapidement. Avec un peu de chance, ça veut dire aussi que la vitesse de dévéloppement sera plus élévée. 
+Le modèle open source est fantastique à bien des égards. Tout d'abord, il permet les développeurs, en particulier ceux qui sont indépendents, d'utiliser l'aide de tout le monde qui s'intéresse à leur appli. En théorie, ça veut aussi dire qu'on peut trouver des bugs plus rapidement et les corriger plus vite. Il y a aussi moins de chance que des codes malveillants se cachent dans l'appli. En général, ça veut dire aussi que la vitesse de dévéloppement sera plus élévée. 
 
-Ce qui est le plus cool peut-être, est que le logiciel devient quasi immortel. Si le créateur de LangCorrect décide d'arrêter de travailler sur le logiciel demain, d'autres personnes peuvent continuer à contribuer. Même s'il décide de fermer complètement le site, quelqu'un d'autre qui a archivé le code peut, en théorie, lancer sa copie de LangCorrect. Attention, dans ce cas-là, tous les données du vieux site seraient perdues. L'accès au code n'est pas l'accès à la base de donné, où tous les données d'utilisateurs sont sauvés.
+Ce qui est le plus cool, est peut-être que le logiciel devient quasi immortel. Si le créateur de LangCorrect a décidé d'arrêter de travailler sur le logiciel aujourd'hui, d'autres personnes qui ont déjà cloné le code pourraient continuer à le dévélopper et lancer un nouveau LangCorrect. Attention, dans ce cas-là, tous les données d'utilisateur du vieux site seraient perdues et le nouveau site devrait acquérir des utilisateurs à partir de zéro. La base de donné n'est jamais disponible même dans les logiciels open source.
 
-De l'autre côté, dévélopper une appli open-source est aussi dur. Sur tout, c'est dur en ce qui concerne de l'argent.
+Mainenant, dévélopper une appli open source n'est aussi pas du tout une décision facile ; surtout pas pour l'une qui est assez complexe comme LangCorrect. Surtout, c'est une déclaration qu'on s'en fiche si quelqu'un décide de « voler » notre base de code et dévélopper leur propre produit. De plus, la plupart des applis open source ne génèrent pas beaucoup, ou pas du tout, d'argent. L'une des raisons pour ça est parce que comme on l'a vu, absolument rien n'empêche un autre dévéloppeur de faire une version entièrement gratuite de LangCorrect s'il veut.
 
+Tout ça pour dire que maintenant Si vous avez envie de 
