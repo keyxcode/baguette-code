@@ -140,12 +140,12 @@ You have a friend who is about to go to a university, and he wants you to sugges
 
 Hi Mark!
 
-I am so happy to hear from you and to know that you are about to start your first year of university! It's been while since I was last in school, but I do have some pieces of advice regarding the two courses you are thinking about.
+I am so happy to hear from you again and to know that you are about to start your first year of university! It's been while since I was last in school, but I do have some pieces of advice regarding the two courses you are thinking about.
 
-First off, having taken both of those courses, I can assure that you can't go wrong with either of them. "Introduction to computer science" when I took it was a very fun class with medium workload, and a final project where I got to build my own web page. On the other hand, "Introduction to philosophy" with Dr. Burns was truly a challenging class that challenged my world view and introduced me to many great philosophers and their outlook on life. Please note though that if you don't like to read a lot, definitely think twice before taking the philosophy course. It was a very reading-intensive course despite being an intro class. 
+First off, please remember that the first year is a chance for you to explore your interests, so don't feel too pressured to settle on the right path this early on. Now, having taken both of those courses, I can assure that you can't go wrong with either of them. In fact, I would suggest taking both if your schedule allows it. "Introduction to computer science" when I took it was a very fun class with medium workload, and a final project where I got to build my own web page. On the other hand, "Introduction to philosophy" with Dr. Burns was truly a challenging class that challenged my world view and introduced me to many great philosophers and their outlook on life. Please note that it is a very reading-intensive course, but you probably already know this given that you've always been interested in the subject.
 
-Lastly, I just want to close off by saying that while you should feel free to explore and take as many interesting courses as you want, I strongly suggest thinking about doing a major in computer science. It offers by far the best job prospects at the moment, and I honestly think the trend will continue in the future.
+Lastly, I just want to close off by saying that while you should feel free to explore and take as many interesting courses as you want, I strongly suggest thinking about doing a major in computer science. As you may know, it offers by far the best job prospects at the moment, and I honestly think the trend will continue in the future.
 
-If you have any other questions, please let me know!
+Anyways, that was just my two cents. I'm confident that you'll be able to choose wisely and have a great time there. Congratulations once again for getting into university, and if you have any other questions, please let me know!
 
 Your friend,
