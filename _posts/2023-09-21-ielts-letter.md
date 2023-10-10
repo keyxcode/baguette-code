@@ -123,7 +123,7 @@ I am requesting that the chequebook delivered to me as soon as possible as I nee
 With thanks, !-->
 
 //==========================================
-Write a letter to complain about a dangerous situation when some adolescents let their dogs run wild in public.
+<!-- Write a letter to complain about a dangerous situation when some adolescents let their dogs run wild in public.
 
 Dear Sir/Madam,
 
@@ -133,4 +133,19 @@ At around 9 AM, I was leisurely strolling in the park as usual when I heard some
 
 As a frequent visiter of your park, I hope that you will consider putting more warnings in the park that no unleased big dogs should be allowed. These types of dogs can be very dangerous to everyone, especially those who cannot defend themselves such as young kids or the elderly.
 
-Kind regards,
+Kind regards, !-->
+
+//==========================================
+You have a friend who is about to go to a university, and he wants you to suggest to him on which course to take – philosophy, in which he is very interested, or computer science, which offers better job prospects
+
+Hi Mark!
+
+I am so happy to hear from you and to know that you are about to start your first year of university! It's been while since I was last in school, but I do have some pieces of advice regarding the two courses you are thinking about.
+
+First off, having taken both of those courses, I can assure that you can't go wrong with either of them. "Introduction to computer science" when I took it was a very fun class with medium workload, and a final project where I got to build my own web page. On the other hand, "Introduction to philosophy" with Dr. Burns was truly a challenging class that challenged my world view and introduced me to many great philosophers and their outlook on life. Please note though that if you don't like to read a lot, definitely think twice before taking the philosophy course. It was a very reading-intensive course despite being an intro class. 
+
+Lastly, I just want to close off by saying that while you should feel free to explore and take as many interesting courses as you want, I strongly suggest thinking about doing a major in computer science. It offers by far the best job prospects at the moment, and I honestly think the trend will continue in the future.
+
+If you have any other questions, please let me know!
+
+Your friend,
