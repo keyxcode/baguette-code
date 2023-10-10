@@ -69,4 +69,10 @@ In summary, artistic endeavors not only improve our personal pursuit of happines
 ---
 Health is very important for everyone and healthcare should not be provided by private profit making companies. What is your opinion?
 
+The question of whether or not the government should encourage private companies to provide medical services has always been a hotly debated topic. Contrary to what some may think, private healthcare might help everyone by alleviating the stress placed on the public health system, as well as providing optional premium services to those who can afford it. In this essay, the benefits of private healthcare will be discussed.
 
+First and foremost, it is a misconception that private healthcare only benefits the rich; in fact, it also helps those with lower incomes by indirectly reducing the number of patients in government-run facilities. In a world where these private companies did not exist, the waitlist at each hospital would at least double or triple the size, making it a lot harder to rapidly seek the help you need. In reality, people who can pay for private healthcare will lessen this burden on public services.
+
+Furthermore, people who have the means to pay for premium services should be allowed to do so in a legitimate way. In fact, this is not so much a choice to make as it is an inevitable phenomenon. In a country that does not support private healthcare companies, these people will undoubtedly seek the services they want in a foreign country that does. Therefore, it is wiser for a government to support this type of business so that the money does not flow out to other countries, but instead still go back as tax money in the end.
+
+In summary, while the concern that private health companies are not essential to the general public is understandable, it is not necessarily well-founded. This type of business may help public health services by redirecting the influx of patients, while providing better services to a certain demographic of people in a legitimate fashion.
