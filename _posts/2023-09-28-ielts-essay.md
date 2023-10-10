@@ -56,7 +56,7 @@ While I understand the sentiment of the first group, I stand with the latter. As
 In summary, while humans no doubt have their own problems that should rightly be focused on, animal lives have been directly worsened because of us. Because of this, I hold the view that we should make a greater effort to protect wildlife, especially endangered species. !-->
 
 ---
-Some people think art such as sculpture and music cannot improve the quality of people’s lives so the government should not spend money on them but on health and defence. What is your opinion?
+<!-- Some people think art such as sculpture and music cannot improve the quality of people’s lives so the government should not spend money on them but on health and defence. What is your opinion?
 
 Throughout human history, the arts have always played an important role and they still do nowadays. Unfortunately, their importance is not always well understood, which leads to some people believing that they do not have any concrete benefits. In this essay, the positive effects of the arts on a personal level, as well as on a national level will be discussed.
 
@@ -64,4 +64,9 @@ First of all, the belief that the arts do not have any direct utility in our eve
 
 Furthermore, the artistic richness of a country is often directly linked with their success in the tourism industry. This can be easily seen in touristic hot spots such as Rome, Kyoto, Athens. It is in fact the architecture, the paintings, the unique culture of these places that draw people around the world.  Of course, this contradicts the viewpoint that the arts are merely superficial and do not have any economic benefits; in contrast, they significantly strengthen a country's economy and thus deserve more funding than many believe.
 
-In summary, artistic endeavors not only improve our personal pursuit of happiness, but also have the potential of bringing in more business to any nation. Therefore, it is without a doubt a wise choice to allocate more national funding to these professions.
+In summary, artistic endeavors not only improve our personal pursuit of happiness, but also have the potential of bringing in more business to any nation. Therefore, it is without a doubt a wise choice to allocate more national funding to these professions. !-->
+
+---
+Health is very important for everyone and healthcare should not be provided by private profit making companies. What is your opinion?
+
+
