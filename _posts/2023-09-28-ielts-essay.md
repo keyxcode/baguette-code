@@ -67,7 +67,7 @@ Furthermore, the artistic richness of a country is often directly linked with th
 In summary, artistic endeavors not only improve our personal pursuit of happiness, but also have the potential of bringing in more business to any nation. Therefore, it is without a doubt a wise choice to allocate more national funding to these professions. !-->
 
 ---
-Health is very important for everyone and healthcare should not be provided by private profit making companies. What is your opinion?
+<!-- Health is very important for everyone and healthcare should not be provided by private profit making companies. What is your opinion?
 
 The question of whether or not the government should encourage private companies to provide medical services has always been a hotly debated topic. Contrary to what some may think, private healthcare might help everyone by alleviating the stress placed on the public health system, as well as providing optional premium services to those who can afford it. In this essay, the benefits of private healthcare will be discussed.
 
@@ -75,4 +75,15 @@ First and foremost, it is a misconception that private healthcare only benefits 
 
 Furthermore, people who have the means to pay for premium services should be allowed to do so in a legitimate way. In fact, this is not so much a choice to make as it is an inevitable phenomenon. In a country that does not support private healthcare companies, these people will undoubtedly seek the services they want in a foreign country that does. Therefore, it is wiser for a government to support this type of business so that the money does not flow out to other countries, but instead still go back as tax money in the end.
 
-In summary, while the concern that private health companies are not essential to the general public is understandable, it is not necessarily well-founded. This type of business may help public health services by redirecting the influx of patients, while providing better services to a certain demographic of people in a legitimate fashion.
+In summary, while the concern that private health companies are not essential to the general public is understandable, it is not necessarily well-founded. This type of business may help public health services by redirecting the influx of patients, while providing better services to a certain demographic of people in a legitimate fashion. !-->
+
+---
+There are many problems caused by mobile phones. What are the advantages of mobile phones? What are the disadvantages?
+
+It has almost become a tradition for modern high-tech devices to cause controversies around their pros and cons; the mobile phone certainly lives up to this tradition left by its predecessors. While some are convinced that this invention has made both our professional and personal life significantly easier, others argue that it has only worsen people's attention span and degrade social life. In this essay, both sides of this argument will be discussed.
+
+It certainly does not take a vehement supporter of mobile phones to recognize their utility in the daily life. Whether you want to contact some at the other side of the globe, or to look up the most authentic Scicilian cannoli recipe, you can do that in five seconds thanks to the little device that fits your pocket. Modern smartphones have proven to be especially useful during the unprecedented time of COVID-19. Despite the social distancing policies in this period, we could still keep in touch with colleagues and loved ones somewhat normally, which whould have been totally impossible without smartphones.
+
+However, the number of people who are wary of or outright against these little devices is growing rapidly. They point out that the instant gratification offered by mobile applications are drastically reducing people's attention span. This is particularly true in young children who grow up with them since day one. Furthermore, this may also cause a type of virtual addiction that brings down our interest in interacting with people in the real world. Indeed, this can be easily observed in almost any restaurant nowadays, where the people stare at their phone while waiting for food, instead of talking to their companion.
+
+In summary, while it is hard to argue against the usefulness of mobile phones, it is also of the utmost importance to recognize their drawbacks. A moderated usage of these devices is essential to assure that our daily life goes smoothly, while at the same time not letting ourselves consumed by them.
