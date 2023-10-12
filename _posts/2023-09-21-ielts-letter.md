@@ -87,11 +87,11 @@ Your friend, !-->
 
 Dear Alice,
 
-I am really pleased to let you know that I will be relocating to New York at the end of November for work. Knowing that you have already lived there for more than five years, I thought I would ask you for some pieces of advice on finding a suitable place to live.
+I'm really excited to let you know that I'll be relocating to New York at the end of November for work. Knowing that you've already been there for more than five years, I thought I'd ask you for some pieces of advice on finding a suitable place to live!
 
-First of all, I live by myself, so realistically I don't need anything more than a single bedroom and ideally a proper kitchen. My budget is around $2,000, which as far as I know is not a lot for New York; because of this, I'm more than willing live in a shared space. My two main priorities are a safe neighborhood and close proximity to a subway station. Anything better than this is an added bonus for me as I live quite simply and frugally.
+First off, I live by myself, so realistically I don't need anything more than a single bedroom and ideally a proper kitchen. My budget is around $2,000, which I'm aware is not a lot for New York; because of this, I'm more than willing to live in a shared space. My two main priorities are a safe neighborhood and close proximity to a subway station. Anything better than this is an added bonus for me as you know I live quite simply and frugally.
 
-Based on the information that I have provided, which area of the city would you suggest I look into. Additionally, are there any websites or online groups that I should join for further information? I would be really grateful if you could get back to me soon. Thank you!
+Based on the information that I gave, which area of the city would you suggest I look into? Additionally, are there any websites or online groups that I should join for further information? Can't wait to hear your from you!
 
 Your friend, !-->
 
@@ -103,9 +103,9 @@ Dear Sir/Madam,
 
 I am writing to inform you about a minor accident that has occured to the vehicle I rented from your company.
 
-The accident happened at around 5pm, yesterday afternoon, August the 20th. At the intersection between Main Street and Market Street, I was slowly decelerating to stop for the red light while all of a sudden the delivery person behind me decided to run the light. As he went through the tiny gap between my car and the sidewalk, his bike made contact and left a scratch on my vehicle.
+The accident happened at around 5pm, yesterday afternoon, August the 20th. At the intersection between Main Street and Market Street, I was slowly decelerating to stop for the red light when all of a sudden the delivery person behind me decided to run the light. As he went through the tiny gap between my car and the sidewalk, his bike made contact and left a scratch on the vehicle.
 
-The damage is minor but I thought it was something I should let you know. The person who caused the damage unfortunately did not stop to check on it, but I managed to get his plate number on my dash cam. Please let me know if you need the footage or anything else from me. I am sorry for any inconvenience caused.
+The damage is minor but I thought it was something I should let you know. The person who caused the damage unfortunately did not stop to check on it, but I managed to get his plate number on the dash cam. Please let me know if you need the footage or anything else from me. I am sorry for any inconvenience caused.
 
 Kind regards, !-->
 
@@ -129,7 +129,7 @@ Dear Sir/Madam,
 
 I am writing to the director board of Hyde Park in regard to an incident involving an irresponsible group of dog owners at your park that happened this morning, August 20th.
 
-At around 9 AM, I was leisurely strolling in the park as usual when I heard some loud, chaotic dog barkings. Soon I realized there were three unleashed bull dogs chasing each other around the flower garden area. Given that this is an aggressive dog breed, many people in the park were disturbed by their uncontrolled presence. It took me another moment to locate the dog owners, who were a group of teenagers. After a few people and I tried to convince them to leash the dogs, they finally complied.
+At around 9 AM, I was leisurely strolling in the park as usual when I heard some loud, chaotic dog barking. Soon I realized there were three unleashed bull dogs chasing each other around the flower garden area. Given that this is an aggressive dog breed, many people in the park were disturbed by their uncontrolled presence. It took me another moment to locate the dog owners, who were a group of teenagers. After a few people and I tried to convince them to leash the dogs, they finally complied.
 
 As a frequent visiter of your park, I hope that you will consider putting more warnings in the park that no unleased big dogs should be allowed. These types of dogs can be very dangerous to everyone, especially those who cannot defend themselves such as young kids or the elderly.
 
