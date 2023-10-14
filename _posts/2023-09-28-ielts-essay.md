@@ -80,6 +80,7 @@ In summary, while the concern that private health companies are not essential to
 !-->
 
 ---
+<!--
 There are many problems caused by mobile phones. What are the advantages of mobile phones? What are the disadvantages?
 
 It has almost become a tradition for modern high-tech devices to cause a lot of controversies around their pros and cons; the mobile phone has certainly lived up to this tradition left by its predecessors. While some are convinced that this invention has made both our professional and personal lives significantly easier, others argue that it has only impaired human attention span and degrade our social lives. In this essay, both sides of this argument will be discussed.
@@ -89,3 +90,17 @@ You certainly do not have to be a strong believer in cell phones to recognize th
 However, the number of people who are wary of, or outright against these little devices is growing rapidly. They point out that the instant gratification provided by mobile applications are drastically reducing people's attention span. This is particularly true in young children who grow up with them since day one. Furthermore, this vapid happiness may also cause a type of virtual addiction that brings down our interests in interacting with people in the real world. Indeed, this can be easily observed in almost any restaurant nowadays, where the people would stare at their phone while waiting for their food instead of talking to their companions.
 
 In summary, although it is difficult to argue against the usefulness of mobile phones, it is also necessary to recognize their drawbacks. A moderate use of these devices is essential to ensure that our daily lives goes smoothly, while at the same time not letting ourselves to be consumed by them.
+!-->
+
+---
+Some people believe that there should be fixed punishments for each type of crime. Some people suggest that the circumstances of a crime, and the reasons for committing it should be taken into consideration when deciding on the punishment. Discuss both views and give your opinion.
+
+Whether or not the circumstance around a crime determine the severity of the punishment has always been a controversial topic. While there are many supporters of mandatory sentencing, there are also numerous activists who urge for a more nuanced approach. In this essay, both points of view, as well as the reason I prefer the latter will be discussed.
+
+On one hand, advocates of fixed penalties argue that this approach is conducive to a more simple, fairer legal system that is less likely to be corrupted. Indeed, in a world where this approach is the norm, there would be almost no need for laywers, since every court case can be concluded with a simple lookup of the corresponding sentence. Furthermore, with less complexity and flexibility in judging a crime comes less bribery. From this point of view, it does seem like mandatory sentencing is a rather compelling method.
+
+On the other hand, proponents of taking the context of a crime into consideration believe that the above approach is badly flawed. To them, there is a clear difference between attacking someone out of pure aggression, versus for self-defense. While the person acting out of self preservation should be left with little to no punishment, the one who harasses others is in fact a criminal and should be punished as such. 
+
+Personally, I share the view of a nuanced look on each and every crime commited. The world we live in is complex and it is impossible to boil down each offense to a single sentence. Such a system would only lead to unfairness and ultimately, injustice.
+
+In summary, while mandatory sentencing has its merits, it is un unrealistic approach that should not be implemented in the world we live in. The circumstance of each crime determines its nature and therefore should be taken into consideration in court.
