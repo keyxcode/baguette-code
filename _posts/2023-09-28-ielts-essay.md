@@ -93,14 +93,19 @@ In summary, although it is difficult to argue against the usefulness of mobile p
 !-->
 
 ---
+<!--
 Some people believe that there should be fixed punishments for each type of crime. Some people suggest that the circumstances of a crime, and the reasons for committing it should be taken into consideration when deciding on the punishment. Discuss both views and give your opinion.
 
 Whether or not the circumstance around a crime determine the severity of the punishment has always been a controversial topic. While there are many supporters of mandatory sentencing, there are also numerous activists who urge for a more nuanced approach. In this essay, both points of view, as well as the reason I prefer the latter will be discussed.
 
 On one hand, advocates of fixed penalties argue that this approach is conducive to a more simple, fairer legal system that is less likely to be corrupted. Indeed, in a world where this approach is the norm, there would be almost no need for lawyers, since every court case can be concluded with a simple lookup of the corresponding sentence. Furthermore, with less complexity and flexibility in judging a crime comes less bribery. From this point of view, it does seem like mandatory sentencing is a rather compelling method.
 
-On the other hand, proponents of taking the context of a crime into consideration believe that the above approach is badly flawed. To them, there is a clear difference between attacking someone out of pure aggression, versus for self-defense. While the person acting out of self-preservation should be left with little to no punishment, the one who harasses others is in fact a criminal and should be punished as such. 
+On the other hand, proponents of adjusting sentences on the basis of the circumstances believe that mandatory sentencing is badly flawed. To them, there is a clear moral difference between attacking someone out of pure aggression, versus for self-defense. While the person acting out of self-preservation should be left with little to no punishment, the one who harasses others is in fact a criminal and should be punished as such. 
 
 Personally, I share the view of a nuanced look on each and every crime committed. The world we live in is complex, and it is impossible to boil down each offense to a single sentence. Such a system would only lead to unfairness and ultimately, injustice.
 
 In summary, while mandatory sentencing has its merits, it is an unrealistic approach that should not be implemented in the world we live in. The circumstance of each crime determines its nature and therefore should be taken into consideration in court.
+!-->
+
+---
+
