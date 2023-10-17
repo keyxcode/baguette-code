@@ -44,8 +44,21 @@ Grammar tips
  - It seems advisable that
  - It is sensible/ logical to conclude that
  
+- Use conditionals when presenting solutions
+ - If we took this step, it would
+ - If such things were more available, people could
+ 
+- Tentative languages
+ - Perhaps
+ - can/ might be
+ - tends to be
+ - may well
+ - should consider
 
-
+- Concession
+ - Use this in opinion pieces
+ - It is true that ... (describe opposing view) Despite this ... (reject the view, go back to main opinion)
+ 
 ---
 <!-- Many people are working at home rather than in the workplace. Some people believe this will bring benefits to the workers and their families, but others suggest it will cause stress in the home. Discuss both sides and give your opinion
 
