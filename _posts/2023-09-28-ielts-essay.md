@@ -29,6 +29,23 @@ Grammar tips
 - Show off vocab
 - Stick to the appropriate tense
 
+- Conjunctions
+ - Another argument is
+ - By contrast
+ - These range from ... to ...
+ - Examples can be seen in
+ - Overall
+ 
+- Impersonal style
+ - This essay will discuss the debate, and give a concluding view
+ - It is often said that
+ - It must be said that
+ - It would appear that
+ - It seems advisable that
+ - It is sensible/ logical to conclude that
+ 
+
+
 ---
 <!-- Many people are working at home rather than in the workplace. Some people believe this will bring benefits to the workers and their families, but others suggest it will cause stress in the home. Discuss both sides and give your opinion
 
@@ -108,4 +125,3 @@ In summary, while mandatory sentencing has its merits, it is an unrealistic appr
 !-->
 
 ---
-
