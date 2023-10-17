@@ -50,7 +50,7 @@ Grammar tips
  
 - **Tentative languages
  - Perhaps
- - can/ might be
+ - can/ might beA
  - tends to be
  - may well
  - should consider
@@ -142,3 +142,10 @@ In summary, while mandatory sentencing has its merits, it is an unrealistic appr
 ---
 Universities should enrol equal numbers of male and female students in all subjects. Do you agree or disagree?
 
+In the recent years, gender equality has progress by leaps and bounds thanks to progressive policies; however, not all those policies are as well-thought-out as the other. One of such flawed policies is the strict requirement of having equal number of students representing the two genders in all subjects. In this essay, the reasons why mandatory gender quota might not be a great idea will be discussed.
+
+First of all, such a policy would ironically neglect students' personal interests. Let's take a hypothetical female student who is interested in majoring in biology at her local university as an example. In a world where strict gender quota was enforced, if the biology department has already had enough female students, our student would have no other choice but to pursue another major. Furthermore, in order to ensure the equal number of male and female students, universities may have to resort to enrolling more out-of-region students. This is simply because it is impossible for the local demographic to consistently have the same number of prospect students representing each gender every year. As a result, this could potentially cause discontent among local people as they themselves might have to send their kids to a university further away that costs more.
+
+Admittedly, having a gender quota might directly tackle the problem of gender underrepresentation in certain fields. However, this also appears to be inflexible and ultimately, ineffective. It would be far more better to develop programs that encourage students of each gender to participate in courses where their gender is underrepresented. The key word here is "encourage", not "force."
+
+In summary, while a mandatory gender quota policy comes with good intention, it appears to create more problems than it is trying than solve. It is indeed vital to progress into a society where both genders are equal in all facets of life; however, that should be achieved by means of kind help and encouragement, not mandates.
