@@ -29,14 +29,14 @@ Grammar tips
 - Show off vocab
 - Stick to the appropriate tense
 
-- Conjunctions
+- **Conjunctions
  - Another argument is
  - By contrast
  - These range from ... to ...
  - Examples can be seen in
  - Overall
  
-- Impersonal style
+- **Impersonal style
  - This essay will discuss the debate, and give a concluding view
  - It is often said that
  - It must be said that
@@ -44,20 +44,22 @@ Grammar tips
  - It seems advisable that
  - It is sensible/ logical to conclude that
  
-- Use conditionals when presenting solutions
+- **Conditionals when presenting solutions
  - If we took this step, it would
  - If such things were more available, people could
  
-- Tentative languages
+- **Tentative languages
  - Perhaps
  - can/ might be
  - tends to be
  - may well
  - should consider
 
-- Concession
- - Use this in opinion pieces
- - It is true that ... (describe opposing view) Despite this ... (reject the view, go back to main opinion)
+- **Concession
+ - Use this in opinion pieces to quickly describe the opposing view, and then promptly reject it to go back to the main position
+ - It is true that ... Despite this ...
+ - Admittedly, ... Nevertheless, ...
+ - While it may be correct that, ... It still appears to be the case, however, that ...
  
 ---
 <!-- Many people are working at home rather than in the workplace. Some people believe this will bring benefits to the workers and their families, but others suggest it will cause stress in the home. Discuss both sides and give your opinion
