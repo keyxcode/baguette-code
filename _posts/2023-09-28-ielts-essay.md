@@ -102,13 +102,13 @@ In summary, artistic endeavors not only improve our personal pursuit of happines
 <!-- 
 Health is very important for everyone and healthcare should not be provided by private profit making companies. What is your opinion?
 
-In order to ensure that healthcare is accessible to everyone, for-profit organisations are necessary in addition  to public medical services. Contrary to popular belief, private healthcare can help the general public by easing the pressure placed on the public healthcare system, as well as providing optional premium services to those who can afford it. In this essay, the benefits of private healthcare will be discussed.
+In order to ensure that healthcare is accessible to everyone, for-profit organisations often prove to be necessary in addition to public medical services. Contrary to popular belief, private healthcare might help the general public by easing the pressure placed on the public healthcare system, as well as providing optional premium services to those who can afford it. In this essay, the benefits of private healthcare will be discussed.
 
-First and foremost, there is a misconception that private healthcare only benefits the rich; in fact, it also helps those with lower income by indirectly reducing the number of patients in government-run facilities. In a world where these private companies did not exist, each hospital's waiting list would at least double or triple the size, making it much more difficult to rapidly seek the help you need. In reality, those who can pay for private healthcare will alleviate this burden on public services.
+First and foremost, there is a misconception that private healthcare benefits no one but the rich; in fact, it would appear that this also indirectly helps people with lower income by reducing the number of patients in government-run facilities. In a world where these private companies did not exist, each hospital's waiting list would at least double or triple the size, making it much more difficult to rapidly seek the help we need. Fortunately, in reality, those who can pay for private healthcare will often go for that option, thus removing the burden on public services.
 
-Furthermore, people who have the means to pay for premium services should be allowed to do so in a legitimate way. In fact, this is not so much a choice to make as it is an inevitable phenomenon. In a country that does not support private healthcare companies, these people will undoubtedly seek the services they want in a foreign country that does offer them. Therefore, it would be wiser for a government to support this type of business so that the money does not flow out to other countries, but instead come back in the end in the form of taxes.
+Furthermore, people who have the means to pay for premium services should be allowed to do so in a legitimate way. In fact, this is perhaps not so much a choice to make as it is an inevitable phenomenon. In a country that does not support private healthcare companies, affluent people will undoubtedly seek the services they look for in a foreign country that does offer them. Therefore, it would be sensible for a government to support this type of business so that the money does not flow out to other countries, but instead comes back in the end in the form of taxes.
 
-In summary, while the concern that private health companies are not essential to the public is understandable, it is not necessarily well-founded. This type of business may help public health departments by redirecting the influx of patients, while legally providing better services to a certain demographic. 
+In summary, while the concern that private health companies are not essential to the public is most definitely understandable, it is often not necessarily well-founded. This type of business tends to help public health departments by redirecting the influx of patients, while legally providing better services to a certain demographic. 
 !-->
 
 ---
@@ -140,3 +140,5 @@ In summary, while mandatory sentencing has its merits, it is an unrealistic appr
 !-->
 
 ---
+Universities should enrol equal numbers of male and female students in all subjects. Do you agree or disagree?
+
