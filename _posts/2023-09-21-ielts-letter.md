@@ -136,7 +136,7 @@ As a frequent visiter of your park, I hope that you will consider putting more w
 Kind regards, !-->
 
 //==========================================
-You have a friend who is about to go to a university, and he wants you to suggest to him on which course to take – philosophy, in which he is very interested, or computer science, which offers better job prospects
+<!--You have a friend who is about to go to a university, and he wants you to suggest to him on which course to take – philosophy, in which he is very interested, or computer science, which offers better job prospects
 
 Hi Mark!
 
@@ -147,5 +147,20 @@ First off, please remember that the first year is a chance for you to explore yo
 Lastly, I just want to close off by saying that while you should feel free to explore and take as many interesting courses as you want, I strongly suggest thinking about doing a major in computer science. As you may know, it offers by far the best job prospects at the moment, and I honestly think the trend will continue in the future.
 
 Anyways, that was just my two cents. I'm confident that you'll be able to choose wisely and have a great time there. Congratulations once again for getting into university, and if you have any other questions, please let me know!
+
+Your friend,
+!-->
+
+//==========================================
+A friend has asked you to babysit on Saturday night and wants to know how much you charge per hour. Unfortunately, you already have a commitment this Saturday and cannot babysit. However, you hope they will use your service in future.
+Write a letter to your friend explaining that you are not able to babysit this Saturday. Explain what your fee for the service is.
+
+Hi Mark,
+
+Thank you so much for contacting me! Unfortunately, I won't be available this entire weekend since I'm preparing for my finals. Nonetheless, I thought it'd be a good idea to let you know more about my service for future reference!
+
+Since I have school in the morning, I can only babysit from 3pm until 9pm. I usually ask my clients to give me a notice around 2 to 3 days in advance so that I can plan ahead. If you have something urgent, please don't hesitate to give me a heads up though even if it's on the same day -- it's just that I can't guarantee I'll be available. I charge on an hourly basis: $15 an hour, and if I need to commute more than 15 minutes to get there, I'll charge an extra $5. I usually don't accept any home that is more than 30 minutes away from where I live.
+
+I think that's about it! Thank you so much once again for remembering that I offer this service. I wish I could help you this time, it's just that time of the year where I literally can't do anything else other than studying. I hope you will find someone to take care of your kids for your night out.
 
 Your friend,
