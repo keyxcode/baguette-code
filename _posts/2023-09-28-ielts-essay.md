@@ -61,6 +61,34 @@ Grammar tips
  - Admittedly, ... Nevertheless, ...
  - While it may be correct that, ... It still appears to be the case, however, that ...
  
+- **Reporting views
+ - Those who support ... promote the idea that ...
+ - Proponents of ... claim that ...
+ - Supporters of ... deny that ...
+ - Opponents of ... are able to cite evidence ...
+ - Critics of ... highlight the difficulty ...
+ 
+- **Passives
+ - Try to use a passive structure at least once in each paragraph of your main body
+ 
+- **Complex adjectives
+ - less-discussed
+ - long-term
+ - well-known
+ - wide-ranging
+ - constantly-evolving
+
+- **Cause and effect
+ - leads to
+ - results in
+ - brings about
+ - has an effec/ impact on
+ - exacerbates
+ - undermines
+ - weakens
+ - lessens
+ - improves
+ 
 ---
 <!-- Many people are working at home rather than in the workplace. Some people believe this will bring benefits to the workers and their families, but others suggest it will cause stress in the home. Discuss both sides and give your opinion
 
