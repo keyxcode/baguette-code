@@ -136,7 +136,7 @@ As a frequent visiter of your park, I hope that you will consider putting more w
 Kind regards, !-->
 
 //==========================================
-You have a friend who is about to go to a university, and he wants you to suggest to him on which course to take – philosophy, in which he is very interested, or computer science, which offers better job prospects
+<!--You have a friend who is about to go to a university, and he wants you to suggest to him on which course to take – philosophy, in which he is very interested, or computer science, which offers better job prospects
 
 Hi Mark!
 
@@ -148,4 +148,17 @@ Lastly, I just want to close off by saying that while you should feel free to ex
 
 Anyways, that was just my two cents. I'm confident that you'll be able to choose wisely and have a great time there. Congratulations once again for getting into university, and if you have any other questions, please let me know!
 
-Your friend,
+Your friend, !-->
+
+//==========================================
+After being involved in a bad accident, you were cared for by a person that you do not know. Write a kind letter to express your thanks.
+
+Dear Mrs. Adams,
+
+It has already been a week since I was discharged from the hospital. I am writing you this letter to let you know that I am doing a lot better now, and most of all, to once again express my gratitude to you and your wonderful help during the time I was hospitalized.
+
+Surely you still remember that rainy day when I broke my ankle after a bad traffic accident. I couldn't stand up and was in panic because that was the first time I ever got into an accident in a foreign country. Lucky for me, you immediately noticed and came to help despite the heavy rain. After hearing that I didn't have any direct family member to contact, you immediately decided to help me get up, and to take me to the nearest hospital, without a moment of hesitation. In the following days when I was there by myself, you still made sure to come visit me everyday after work. That truly moved me and I hope you know that is something I will never forget.
+
+
+
+Yours sincerely,
