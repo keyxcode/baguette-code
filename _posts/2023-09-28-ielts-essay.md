@@ -49,8 +49,8 @@ Grammar tips
  - If such things were more available, people could
  
 - **Tentative languages
- - Perhaps
- - can/ might beA
+ - perhaps
+ - can/ might be
  - tends to be
  - may well
  - should consider
@@ -82,12 +82,19 @@ Grammar tips
  - leads to
  - results in
  - brings about
- - has an effec/ impact on
+ - has an effect/ impact on
  - exacerbates
  - undermines
  - weakens
  - lessens
  - improves
+
+- **Noun persons
+ - Avoid the use of "people" by using: taxpayers, workers, health proviers, the authorities, those who ...
+
+- **Rejecting arguments
+
+- **Conclusions
  
 ---
 <!-- Many people are working at home rather than in the workplace. Some people believe this will bring benefits to the workers and their families, but others suggest it will cause stress in the home. Discuss both sides and give your opinion
