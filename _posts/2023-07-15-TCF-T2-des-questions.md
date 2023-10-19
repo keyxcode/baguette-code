@@ -189,3 +189,13 @@ https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-su
 - faut-il que je port des vetements tres formel ou est-ce que je peux m'habille plus ou moin normal
 - est-ce que tu penses que je devrais preparer une ou deux chansons pour l'evenement ou est-ce que c'est un faux pas ?
 - je peux ammener une personnes. souhaite-tu y aller avec moi?
+
+---
+https://www.tcfca.com/se-preparer/lessons/tcf-canada-expression-orale-tache-2-sujet-05-octobre-2021/
+
+- bj, ca fait longtemps. ca va
+- ca va. ecoute, comme je t'ai dit, je vais demenager bientot au canada, et je dois vendre cet appartment. je pesne que tu m'a dit que tu es a la recherche pour un nouveau appart ?
+- quel type de appartmenet cherche-tu? faut-il etre un qui est tres grand ou quoi ?
+- preferes-tu un quartier plus calme ou plus anime
+- je pense que cet appart va te conveint alors. a quel date est-ce que tu souhaits d'en trouver un
+- parfait, c'est exactement la date ou je part. alors, en ce qui concerne les frais autotal, il faut que je demande et ma famille. pourrais-tu attendre peut etre une semaine. 
