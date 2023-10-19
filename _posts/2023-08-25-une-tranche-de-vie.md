@@ -1,0 +1,4 @@
+---
+published: false
+---
+Aujourd'hui j'ai visité un café du livre. C'est un café où il y a beaucoup de livres et on peut les lire sur place en buvant quelque chose ou même les achète si on veut. J'en ai profité pour trouver quelques livres en français et les parcourir sur place. C'est un nouveau loisir pour moi de jeter un coup d'oeuil sur des écriture français et de voir combien je peux comprendre. Parmi les livres, il y en a un sur l'art à Hué, une ville ancienne du Vietnam, un autre qui est un roman romantique par Musso, plusieurs d'autres livres anciens sur la guerre écrits par des politiciens vietnammiens dans les années soixantes. 
