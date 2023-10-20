@@ -157,10 +157,12 @@ Write a letter to your friend explaining that you are not able to babysit this S
 
 Hi Mark,
 
-Thank you so much for contacting me! Unfortunately, I won't be available this entire weekend since I'm preparing for my finals. Nonetheless, I thought it'd be a good idea to let you know more about my service for future reference!
+I am writing in regards to your request for me to come and babysit your children on Saturday night.
 
-Since I have school in the morning, I can only babysit from 3pm until 9pm. I usually ask my clients to give me a notice around 2 to 3 days in advance so that I can plan ahead. If you have something urgent, please don't hesitate to give me a heads up though even if it's on the same day -- it's just that I can't guarantee I'll be available. I charge on an hourly basis: $15 an hour, and if I need to commute more than 15 minutes to get there, I'll charge an extra $5. I usually don't accept any home that is more than 30 minutes away from where I live.
+Thank you so much for contacting me! Unfortunately, I won't be available this entire weekend since I'm preparing for my finals. But anyways, I thought it'd be a good idea to let you know more about my availability for future reference.
 
-I think that's about it! Thank you so much once again for remembering that I offer this service. I wish I could help you this time, it's just that time of the year where I literally can't do anything else other than studying. I hope you will find someone to take care of your kids for your night out.
+Since I have school in the morning, I can babysit from 3pm until 9pm. I usually ask for a 2 to 3 days advance notice so that I can plan ahead. I charge on an hourly basis: $15 an hour, and if I need to commute for more than 15 minutes to get there, that'll be an extra $5. I usually don't accept any home that is more than 30 minutes away from where I live.
+
+I think that's about it! Thank you so much once again for remembering that I offer this service. I hope you will find someone to take care of your kids for your night out.
 
 Your friend,
