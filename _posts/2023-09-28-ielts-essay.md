@@ -88,13 +88,38 @@ Grammar tips
  - weakens
  - lessens
  - improves
+ - destroys
+ - eliminates
+ - makes ... deteriorate
+ - dilutes
 
 - **Noun persons
  - Avoid the use of "people" by using: taxpayers, workers, health proviers, the authorities, those who ...
 
-- **Rejecting arguments
+- **Time and probability
+ - ultimately
+ - rapidly
+ - soon
+ - potentially
+ - immediate
+ 
+- **Alternatives
+ - Turning to possible alternatives, probably the most effective would be
+ - Regarding other possible solutions,
+ - On the subjects of alternatives,
 
-- **Conclusions
+- **Academic collocations
+ - there is a widespread concern about
+ - it is virtually certain that
+ - it is barely conceivable that
+ - there is universal consensus that
+ - it is generally accepted that
+ - it is correct that
+ - by focusing on this topic to the exclusion of others
+ - we run the risk of
+ - one among a range of issues
+ - by no means
+ - this is not to say that
  
 ---
 <!-- Many people are working at home rather than in the workplace. Some people believe this will bring benefits to the workers and their families, but others suggest it will cause stress in the home. Discuss both sides and give your opinion
