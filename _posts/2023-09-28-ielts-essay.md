@@ -204,7 +204,7 @@ Some people believe that teaching children at home is best for a child's develop
 
 Discuss the advantages of both methods and give your own opinion.
 
-For many years, the idea of sending children is a generally accepted as essential for child development. However, recently, the home education movement has challenged this age-old method and its benefits by proposing an alternative. In this essay, both sides of this debate, as well as a concluding view, will be discussed.
+For many years, the idea of sending children to school is a generally accepted as essential for child development. However, recently, the home education movement has challenged this age-old method and its benefits by proposing an alternative. In this essay, both sides of this debate, as well as a concluding view, will be discussed.
 
 On one hand, supporters of the tradition education system rejects the premise of homeschool. They argue that being surrounded by peers and interacting with different teachers are essential to the development of a child. In addition, according to them, going to school has been a tried-and-true formula for thousands of years, ever since the ancient Greek. Therefore, it seems sensible that we should not try to fix what is not broken.
 
