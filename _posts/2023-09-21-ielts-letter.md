@@ -152,6 +152,7 @@ Your friend,
 !-->
 
 //==========================================
+<!--
 A friend has asked you to babysit on Saturday night and wants to know how much you charge per hour. Unfortunately, you already have a commitment this Saturday and cannot babysit. However, you hope they will use your service in future.
 Write a letter to your friend explaining that you are not able to babysit this Saturday. Explain what your fee for the service is.
 
@@ -166,3 +167,23 @@ Since I have school in the morning, I can babysit from 3pm until 9pm. I usually 
 I think that's about it! Thank you so much once again for remembering that I offer this service. I hope you will find someone to take care of your kids for your night out.
 
 Your friend,
+!-->
+
+//==========================================
+A friend has agreed to look after your house and pet while you are on holiday.
+
+Write a letter to your friend. In your letter:
+- give contact details for when you are away
+- give instructions about how to care for your pet
+- describe other household duties
+
+Dear Sarah,
+
+Thank you so much for having accepted to look after my house and pet when I'm away! I'm writing to provide some information that you may need during this time.
+
+First off, since I'll be outside of Vietnam, my regular phone number won't work. Because of that, if you need anything please message me on Facebook or call me on WhatsApp if it's something urgent. As for my cat Snow, she eats two times a day: at noon and around 7pm at night. Her food can be found in the wooden drawer next to the entrance. It's not hard to find, but if you can swing by this week, I will show you exactly where it is. Other than that, the only other thing that I hope you could help me with is to open the windows when you come to keep the air circulate, and close them again before you leave. Of course, you don't have to do this when the weather is bad outside!
+
+Once again, thank you so much for doing this Sarah. Having you take care of the house really gives me the peace of mind I need for this important business trip. Let me know what you like in Spain and I'll definitely try to get it for you!
+
+Your friend,
+Q
