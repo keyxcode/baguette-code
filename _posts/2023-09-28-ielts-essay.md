@@ -198,3 +198,18 @@ On the one hand, proponents of adjusting local customs to please visitors have r
 By contrast, critics of the above approach claim that it might not be possible to simultaneously incorporating foreign cultures and preserving local traditions. They argue that if the locals were to accommodate new influences from the influx of tourists, the old traditions would eventually be lost in a melting pot. This can be illustrated by looking at the city of Montreal, where the use of English is openly prohibited in order to protect their French roots. Indeed, one would struggle to find a KFC restaurant here because they are required by laws to be called PFK, the origin name translated to French.
 
 Overall, I would tend to agree with those who are in favor of protecting local customs and that it is the visitors' responsibility to respect these traditions. These beautiful gems of the past can be fragile in a globalized world and therefore it seems advisable to be overprotective rather than to lose them for good.
+
+---
+Some people believe that teaching children at home is best for a child's development while others think that it is important for children to go to school.
+
+Discuss the advantages of both methods and give your own opinion.
+
+For many years, the idea of sending children is a generally accepted as essential for child development. However, recently, the home education movement has challenged this age-old method and its benefits by proposing an alternative. In this essay, both sides of this debate, as well as a concluding view, will be discussed.
+
+On one hand, supporters of the tradition education system rejects the premise of homeschool. They argue that being surrounded by peers and interacting with different teachers are essential to the development of a child. In addition, according to them, going to school has been a tried-and-true formula for thousands of years, ever since the ancient Greek. Therefore, it seems sensible that we should not try to fix what is not broken.
+
+On the other hand, proponents of home schooling cite the various advantages of this model of education; these range from financial to lifestyle benefits. Indeed, home education tends to save parents a multitide of fees, including tuition and transportation. Furthermore, this method allows parents and children to spend more time together and develop a stronger bond. This is particularly compatible with families who decide not to settle down in a traditional home, but rather prefer to lead a modern nomad lifestyle where they are always on the road in a van. For them, homeschool seems to be the only viable option.
+
+Above all, it would appear that homeschool promotes the freedom of learning better than its conventional alternative. There is a popular saying that reminds us not to let schools get in the way of our education; as ironic as it sounds, it tends to ring true in many cases. All too often, the rigid curriculums in brick-and-mortar schools destroy students' curiosity and desire to learn new things. This can be remedied by having children study at home, in a place they know is safe and where they are free to ask questions.
+
+In summary, even though traditional schooling has been the status quo for a long time, home schooling may prove to be more effective for many households. This method saves money, saves time and most importantly, may have pedagogical advantages.
