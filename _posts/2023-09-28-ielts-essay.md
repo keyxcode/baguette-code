@@ -15,19 +15,19 @@ Body
  - The following sentences should be related ideas and explanations/ consequences/ implications
  - May give example, should be concise 1 or 2 sentences
  
-Conclusion
+Conclusiont
 - In summary, ...
 - If want to give some personal opinions, here's the place. The rest of the essay should be objective. Still avoid "In my opinion" or "I believe" tho
 - Restatement of thesis in a stronger and convincing tone
 
 Grammar tips
-- Use all 4 sentence types
+- **Use all 4 sentence types
  - Simple (She smiled)
  - Compound (She smiled, and she laughed)
  - Complex (She smiled because she was happy)
  - Compound complex
-- Show off vocab
-- Stick to the appropriate tense
+
+- **Stick to the appropriate tense
 
 - **Conjunctions
  - Another argument is
@@ -57,7 +57,7 @@ Grammar tips
 
 - **Concession
  - Use this in opinion pieces to quickly describe the opposing view, and then promptly reject it to go back to the main position
- - It is true that ... Despite this ...
+ - It is (probably) true that ... Despite this ...
  - Admittedly, ... Nevertheless, ...
  - While it may be correct that, ... It still appears to be the case, however, that ...
  
@@ -120,6 +120,11 @@ Grammar tips
  - one among a range of issues
  - by no means
  - this is not to say that
+ 
+- **Balanced conclusion
+ - among a range of
+ - as long as
+ - provided that
  
 ---
 <!-- Many people are working at home rather than in the workplace. Some people believe this will bring benefits to the workers and their families, but others suggest it will cause stress in the home. Discuss both sides and give your opinion
