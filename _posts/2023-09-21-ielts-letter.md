@@ -197,13 +197,15 @@ explain what has happened
 describe the bag and its contents
 say what you would like them to do about this problem
 
-Dear Sir or Madam,
+Dear Sir/ Madam,
 
-I am writing to you in regard to a bag that I left on the flight that I was on last week with your airline.
+I am writing to you in regard to a bag that I regretfully left on the flight that I was on last week with your airline.
 
-My name is Quan Phan and on Thursday last week I took a trip from from New York to London; the flight number was ABC123 and my seat number was E6. Since it was delayed for three hours because of bad weather, I was so exhausted on arrival that I forgot that I had left my bag under the seat. It is medium-sized blue backpack with the brand name "The North Face" on it. Inside, there should be a small notebook, two pens and some cash (I would say around fifty bucks, and definitely no more than a hundred).
+My name is Quan Phan and on Thursday last week I took a trip from from New York to London; the flight number was ABC123 and my designated seat was E6. Since it was delayed for three hours because of bad weather, I was so exhausted on arrival that I forgot that I had left my bag under the seat. It is medium-sized blue backpack with the brand name "The North Face" on it. Inside, you should be able to find a small notebook, two pens and some cash (I would say around fifty bucks, and definitely no more than a hundred).
 
-I would appreciate it if you could check if my bag had been found, and get back to me via this e-mail address. Should you need any further information from me, please let me know.
+I would appreciate it if you could check if my bag had been found, and contact me as soon as possible via this e-mail address. Should you need any further information from me, please let me know.
+
+Thank you for your help, I look forwar to hearing from you.
 
 Kind regards,
-Q 
+Q
