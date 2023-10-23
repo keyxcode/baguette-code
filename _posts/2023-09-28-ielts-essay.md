@@ -243,3 +243,16 @@ On the other hand, advocates of homeschooling cite the various advantages of thi
 Above all, it would appear that homeschool promotes academic freedom better than its conventional counterpart. There is a popular saying that reminds us not to let schools get in the way of our education; as ironic as it sounds, it tends to ring true in many cases. All too often, the rigid curricula in brick-and-mortar schools destroy students' curiosity and desire to learn new things. This can be remedied by having children learn at home, in a place they know is safe and where they can freely ask questions.
 
 In summary, even though traditional schooling has been the status quo for a long time, homeschooling may prove to be more effective for many households. This method saves money, saves time and most importantly, can provide pedagogical advantages.
+
+---
+There is a lot of pressure on young people today to succeed academically. As a result, some people believe that non-academic subjects, such as physical education and cookery, should be removed from the school syllabus so that children can concentrate on academic work.
+
+To what extent do you agree or disagree?
+
+In the recent years, a number of educators and legislators have suggested that we cut down non-essential subjects in school in order to prioritize core courses. Upon some analysis, this does not appear to be a very sensible solution. In this essay, the arguments against this policy will be discussed.
+
+First of all, such a policy would not seem to take students' interests into account. While conventionally important subjects such as math and science are of interest to many students, others are more inclined to enjoy sports or the arts. It would not be fair for these students to have to endure what they do not enjoy day in and day out. Furthermore, to most working adults, non-academic subjects are arguably more relevant to their lives than academic ones. Indeed, if we were to sample a few people at random, it would be far more likely that the last thing the did was preparing a meal or exercising rather than solving some differential equation.
+
+Admittedly, the proposal of removing the so-called "non-academic" subjects comes in good faith. Proponents of this reform hope that by doing so, children would be able to spend more time on core subjects and thus be more likely to succeed academically, as well as in life. Nonetheless, it seems to me that they overlook the fact that the definition of "core subjects" is a highly contentious one and depends on each individual. Therefore, it would not be very realistic to implement such a policy in our school system.
+
+In summary, while the idea of cutting down non-essential courses in school has the good intention of making students life easier, I would have to disagree with its implementation. Every child has their own interests and ambitions, and therefore a one-size-fits-all curriculum is unlikely to prepare them well for their future.
