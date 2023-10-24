@@ -262,11 +262,11 @@ In summary, while the idea of cutting down non-essential courses in school has t
 Some people argue that all experimentation on animals is bad and should be outlawed. However, others believe that important scientific discoveries can be made from animal experiments.
 Can experimentation on animals be justified? Are there any alternatives?
 
-It is true that animals have long been the unsung heroes in the development of modern sciences. However, in recent years,  activists have raised their concerns about the ethical implications of experimentations on animals; some are even suggesting a complete ban on this activity. In this essay, arguments for this type of research as well as some alternatives will be given.
+It is true that animals have long been the unsung heroes in the development of modern sciences. However, in recent years, activists have raised their concerns about the ethical implications of experimentation on animals; some are even suggesting a complete ban on this activity. In this essay, arguments for this type of research as well as some alternatives will be given.
 
 First of all, it is important to recognize that animal testing should not be viewed as completely justified, but rather a necessary compromise. The age-old trolley problem comes to mind, where a resounding good solution does not exist. Such is probably the case here: we do not want to hurt the animals, but their sacrifice may help save all the more human lives.
 
-Indeed, it would be virtually impossible to produce safe medications without research on animals. Take vaccine development for example, we can see that the initial stage always requires animal testing to ensure that it could be safely applied on humans. However, thanks to this, deadly diseases such as smallpox have been eradicated and saved millions of lives around the world.
+Indeed, it would be virtually impossible to produce safe medications without research on animals. Take vaccine development for example, we can see that the initial stage always requires animal testing to ensure that it could be safely applied on humans. Thanks to this, deadly diseases such as smallpox have been eradicated and millions of lives around the world have been saved.
 
 Turning to the alternatives, one possible solution in the future might be artificial intelligence. Scientists are hoping that with the development of AI, we can run simulations that accurately reflect the effect of certain formulas on the body. In addition, while this is not an alternative per se, we should also try to limit the use of animal experimentation to only essential studies. For example, it would be sensible to outlaw the use of animals in the development of cosmetics.
 
