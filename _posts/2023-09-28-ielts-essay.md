@@ -246,7 +246,6 @@ In summary, even though traditional schooling has been the status quo for a long
 
 ---
 There is a lot of pressure on young people today to succeed academically. As a result, some people believe that non-academic subjects, such as physical education and cookery, should be removed from the school syllabus so that children can concentrate on academic work.
-
 To what extent do you agree or disagree?
 
 In recent years, students are under increasing pressure to perform well academically in order to get into a good university or to secure a well-paid job. Because of this, a number of educators and legislators have suggested that we cut down non-essential subjects in school in order to prioritize core courses. Upon some analysis, this does not appear to be the most sensible solution. In this essay, the arguments against this policy will be discussed.
@@ -258,3 +257,17 @@ Furthermore, to most working adults, many non-academic subjects are arguably mor
 Admittedly, the proposal of removing the so-called "non-academic" subjects comes in good faith. Proponents of this reform hope that by doing so, children would be able to spend more time on core subjects and thus be more likely to succeed academically, as well as in life. Nonetheless, they seem to have overlooked the fact that the definition of "core subjects" is a highly contentious one and depends on each individual. Therefore, it would not be very realistic to implement such a policy in our school system.
 
 In summary, while the idea of cutting down non-essential courses in school has the good intention of making students life easier, I would have to disagree with its implementation. A one-size-fits-all curriculum is unlikely to prepare students well for their future because it neglects the ambition of each individual, as well as the practicality of conventionally less important subjects.
+
+---
+Some people argue that all experimentation on animals is bad and should be outlawed. However, others believe that important scientific discoveries can be made from animal experiments.
+Can experimentation on animals be justified? Are there any alternatives?
+
+It is true that animals have long been the unsung heroes in the development of modern sciences. However, in recent years,  activists have raised their concerns about the ethical implications of experimentations on animals; some are even suggesting a complete ban on this activity. In this essay, arguments for this type of research as well as some alternatives will be given.
+
+First of all, it is important to recognize that animal testing should not be viewed as completely justified, but rather a necessary compromise. The age-old trolley problem comes to mind, where a resounding good solution does not exist. Such is probably the case here: we do not want to hurt the animals, but their sacrifice may help save all the more human lives.
+
+Indeed, it would be virtually impossible to produce safe medications without research on animals. Take vaccine development for example, we can see that the initial stage always requires animal testing to ensure that it could be safely applied on humans. However, thanks to this, deadly diseases such as smallpox have been eradicated and saved millions of lives around the world.
+
+Turning to the alternatives, one possible solution in the future might be artificial intelligence. Scientists are hoping that with the development of AI, we can run simulations that accurately reflect the effect of certain formulas on the body. In addition, while this is not an alternative per se, we should also try to limit the use of animal experimentation to only essential studies. For example, it would be sensible to outlaw the use of animals in the development of cosmetics.
+
+In summary, while it is not an easy choice to make, allowing animal testing would appear to be justified given the number of humans lives it saves. Nonetheless, we should try to limit its usage to the bare minimum, and also keep an eye on alternatives that future technologies may bring.
